@@ -1,0 +1,30 @@
+import pyautogui
+import time
+
+pyautogui.moveTo(2300, 64, duration=1.5)
+time.sleep(1)
+pyautogui.click()
+time.sleep(1)
+pyautogui.press("backspace")
+pyautogui.write("globoesporte", interval=0.25)
+pyautogui.press("enter")
+time.sleep(3)
+pyautogui.moveTo(2260, 400, duration=0.5)
+time.sleep(1)
+pyautogui.click()
+pyautogui.moveTo(2195, 219, duration=0.5)
+time.sleep(1)
+pyautogui.click()
+pyautogui.screenshot("globoesporte.png")
+pyautogui.alert(text="Screenshot tirada com sucesso!", title="Screenshot", button="OK")
+
+
+pyautogui.press("winleft")
+time.sleep(1)
+pyautogui.write("chrome", interval=0.10)
+time.sleep(1)
+pyautogui.press("enter")
+time.sleep(1)
+pyautogui.write("https://instagram.com/", interval=0.10)
+time.sleep(1)
+pyautogui.press("enter")

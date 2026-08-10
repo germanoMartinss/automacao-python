@@ -14,7 +14,7 @@ from pyautogui import mouseInfo
 mouseInfo()
 """
 
-#4 - Mover o Mouse
+#4 - Mover o Mouse para minimizar
 pyautogui.moveTo(3756, 19, duration=1.5)
 time.sleep(1)
 pyautogui.click()
