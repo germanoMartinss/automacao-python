@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
 import numpy as np
+import time
 
 mp_drawing = mp.solutions.drawing_utils
 mp_face_mesh = mp.solutions.face_mesh
@@ -8,6 +9,9 @@ mp_face_mesh = mp.solutions.face_mesh
 p_left_eye = [385, 380, 387, 373, 362, 263]
 p_right_eye = [160, 144, 158, 153, 33, 133]
 p_eyes = p_left_eye + p_right_eye
+
+threshold_eye = 0.3
+closed_eyes = 0
 
 def calculate_ear(face, p_right_eye, p_left_eye):
     try:
@@ -61,6 +65,18 @@ with mp_face_mesh.FaceMesh(
                         ear = calculate_ear(face, p_right_eye, p_left_eye)
                         cv2.rectangle(frame, (0, 1), (250, 120), (0, 0, 0), -1)
                         cv2.putText(frame, f"EAR: {round(ear, 2)}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2, cv2.LINE_AA)
+                        if ear < threshold_eye:
+                            t_initial = time.time() if closed_eyes == 0 else t_initial
+                            closed_eyes = 1
+                        if closed_eyes == 1 and ear > threshold_eye:
+                            closed_eyes = 0
+                        t_final = time.time()
+
+                        tempo = (t_final - t_initial) if closed_eyes == 1 else 0.0
+                        cv2.putText(frame, f"Tempo: {round(tempo, 3)}", (1, 70), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2, cv2.LINE_AA)
+                        if tempo >= 2.0:
+                            cv2.rectangle(frame, (30, 350), (600, 430), (100, 200, 200), -1)
+                            cv2.putText(frame, f"Muito tempo de olho fechado!", (50, 400), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2, cv2.LINE_AA)
         cv2.imshow("Webcam", frame)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
