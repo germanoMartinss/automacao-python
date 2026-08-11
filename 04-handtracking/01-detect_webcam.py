@@ -29,10 +29,7 @@ PROGRAMAS_POR_GESTO = {
     (True, True, False, True): ["vlc", music_path],
 }
 
-
 hands = mp_hands.Hands()
-
-
 
 def find_coord_hand(img, side_inverted = False):
     img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
