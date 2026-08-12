@@ -4,6 +4,7 @@ from playsound import playsound
 import os
 from random import randint
 import sys
+import so_funcoes
 
 
 def cria_audio(audio, mensagem):
@@ -17,6 +18,14 @@ def executa_comandos(acao):
     if "fechar assistente" in acao:
         print("Assistente fechado")
         sys.exit()
+    elif "horas" in acao:
+        cria_audio("dados/horas.mp3", so_funcoes.verifica_hora())
+    elif "desligar" in acao and "computador" in acao:
+        so_funcoes.desliga_computador()
+        cria_audio("dados/desligamento.mp3", "Desligamento programado para daqui a 60 minutos")
+    elif "cancelar" in acao and "desligamento" in acao:
+        so_funcoes.cancela_desligamento()
+        cria_audio("dados/cancelamento.mp3", "Desligamento cancelado")
        
 def monitora_audio():
     recon = sr.Recognizer()
