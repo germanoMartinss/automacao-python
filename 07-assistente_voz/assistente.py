@@ -6,6 +6,7 @@ from random import randint
 import sys
 import so_funcoes
 import noticias_funcoes
+import moeda_funcoes
 
 
 def cria_audio(audio, mensagem):
@@ -29,6 +30,12 @@ def executa_comandos(acao):
         cria_audio("dados/cancelamento.mp3", "Desligamento cancelado")
     elif "notícias" in acao:
         cria_audio("dados/noticias.mp3", noticias_funcoes.ultimas_noticiais())
+    elif "cotação" in acao and "dólar" in acao:
+        cria_audio("dados/mensagem.mp3", moeda_funcoes.cotacao_moeda("Dólar"))
+    elif "cotação" in acao and "euro" in acao:
+        cria_audio("dados/mensagem.mp3", moeda_funcoes.cotacao_moeda("Euro"))
+    elif "cotação" in acao and "bitcoin" in acao:
+        cria_audio("dados/mensagem.mp3", moeda_funcoes.cotacao_moeda("Bitcoin"))
        
 def monitora_audio():
     recon = sr.Recognizer()
