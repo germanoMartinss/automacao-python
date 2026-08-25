@@ -5,6 +5,7 @@ import os
 from random import randint
 import sys
 import so_funcoes
+import noticias_funcoes
 
 
 def cria_audio(audio, mensagem):
@@ -26,6 +27,8 @@ def executa_comandos(acao):
     elif "cancelar" in acao and "desligamento" in acao:
         so_funcoes.cancela_desligamento()
         cria_audio("dados/cancelamento.mp3", "Desligamento cancelado")
+    elif "notícias" in acao:
+        cria_audio("dados/noticias.mp3", noticias_funcoes.ultimas_noticiais())
        
 def monitora_audio():
     recon = sr.Recognizer()
