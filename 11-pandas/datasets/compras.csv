@@ -1,0 +1,2001 @@
+data;id_compra;estado;cidade;vendedor;produto;preco;forma_pagto;genero_cliente;nome_cliente
+2025-09-01;0;CE;Fortaleza;José Maria;Vestido;79,9;Dinheiro;Feminino;Vickie Coleman
+2025-09-01;1;SC;Florianópolis;Léco;Shorts;39,9;Pix;Masculino;Kelly Garcia
+2025-09-01;2;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Dinheiro;Masculino;Christopher Haggins
+2025-09-01;3;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Angela Dominion
+2025-09-02;4;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Pix;Masculino;Bette Escobar
+2025-09-02;5;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Débito;Feminino;Dolores Zalenski
+2025-09-02;6;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Crédito;Masculino;Dana Bruggeman
+2025-09-02;7;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Débito;Feminino;Mathilda Sandhu
+2025-09-02;8;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Pix;Masculino;Mark Kirby
+2025-09-02;9;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Pix;Feminino;Rick Conley
+2025-09-02;10;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Dinheiro;Feminino;Bernice Joyce
+2025-09-03;11;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Masculino;Jessie Hill
+2025-09-03;12;CE;Fortaleza;José Maria;Chapéu;19,9;Pix;Masculino;Casey Espinoza
+2025-09-03;13;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Crédito;Masculino;Jesus Phillips
+2025-09-03;14;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Daniel Gilbert
+2025-09-03;15;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Pix;Masculino;Erica Gregor
+2025-09-03;16;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Pix;Feminino;Adam Crouch
+2025-09-04;17;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Crédito;Masculino;James Kirk
+2025-09-04;18;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Crédito;Masculino;Shirley Oconnor
+2025-09-04;19;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Rosa Sargent
+2025-09-04;20;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Pix;Feminino;James Parrish
+2025-09-04;21;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Masculino;William Bonavia
+2025-09-04;22;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Cartão de Débito;Feminino;Lee Wood
+2025-09-04;23;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Crédito;Masculino;Jami Sears
+2025-09-05;24;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Richard Halcomb
+2025-09-05;25;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Feminino;Bernice Painter
+2025-09-05;26;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Pix;Feminino;John Mcmanus
+2025-09-05;27;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Crédito;Masculino;Trudy Whitmore
+2025-09-05;28;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Débito;Masculino;Ora Barry
+2025-09-05;29;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Cartão de Crédito;Masculino;Theresa Martinez
+2025-09-05;30;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Shawn Sanders
+2025-09-06;31;SC;Florianópolis;Léco;Óculos de Sol;59,9;Cartão de Débito;Feminino;Carey Minor
+2025-09-06;32;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Masculino;Catherine Hodge
+2025-09-07;33;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Crédito;Masculino;David Belanger
+2025-09-07;34;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Feminino;April Mcarthur
+2025-09-07;35;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Masculino;Rex Brentson
+2025-09-07;36;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Dinheiro;Feminino;Thomas Castillo
+2025-09-07;37;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Dinheiro;Masculino;Greg Garza
+2025-09-07;38;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Crédito;Masculino;Nancy Moradel
+2025-09-07;39;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Masculino;Anthony Hallquist
+2025-09-08;40;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Pix;Masculino;Robert Davis
+2025-09-08;41;SC;Florianópolis;Léco;Saia;49,9;Pix;Masculino;Richard Peek
+2025-09-08;42;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Pix;Feminino;Dean Parker
+2025-09-08;43;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Feminino;Janice Story
+2025-09-08;44;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Dinheiro;Masculino;Glenn Schnarr
+2025-09-09;45;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Pix;Feminino;Brian Sisk
+2025-09-09;46;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Débito;Feminino;Terrence Raybuck
+2025-09-09;47;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Pix;Masculino;Frances Dingess
+2025-09-09;48;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Pix;Feminino;Clifford Gregg
+2025-09-09;49;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Masculino;Mark Sharpe
+2025-09-09;50;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Masculino;John Lee
+2025-09-09;51;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Pix;Feminino;Bertha Schad
+2025-09-10;52;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Feminino;Mohamed Stone
+2025-09-10;53;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Nancy Garcia
+2025-09-10;54;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Ashley Arroyo
+2025-09-10;55;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Judy Franklin
+2025-09-10;56;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Calvin Fernandez
+2025-09-11;57;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Masculino;Brandy Cannon
+2025-09-12;58;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Débito;Feminino;Betty Manzano
+2025-09-12;59;SP;São Paulo;Germano Martins;Chapéu;19,9;Pix;Feminino;Catherine Krogman
+2025-09-12;60;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Dinheiro;Feminino;Lisa Jimenez
+2025-09-12;61;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Pix;Feminino;Bruce Rogers
+2025-09-12;62;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Masculino;William Macdowell
+2025-09-13;63;SC;Florianópolis;Léco;Shorts;39,9;Dinheiro;Masculino;Charles Phillips
+2025-09-13;64;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Cartão de Crédito;Feminino;David Tanner
+2025-09-13;65;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Dinheiro;Masculino;Melinda Perez
+2025-09-13;66;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Masculino;Tawanna Spengler
+2025-09-13;67;CE;Fortaleza;Maria das Graças;Vestido;79,9;Pix;Masculino;Chris Butler
+2025-09-13;68;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Feminino;Paul Garcia
+2025-09-13;69;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Feminino;Debbie Larson
+2025-09-13;70;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Masculino;Ernest Terry
+2025-09-14;71;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Débito;Masculino;Scott Rodriguez
+2025-09-14;72;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Masculino;Clarence Hartwell
+2025-09-14;73;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Crédito;Feminino;Arthur Patterson
+2025-09-14;74;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Dinheiro;Feminino;Mary Tippin
+2025-09-14;75;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Gary Pilgrim
+2025-09-14;76;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Masculino;Carlo Duncan
+2025-09-14;77;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Crédito;Feminino;Damian Cobbins
+2025-09-15;78;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Pix;Masculino;Kim Kling
+2025-09-15;79;CE;Fortaleza;José Maria;Chapéu;19,9;Pix;Masculino;Christopher Woodward
+2025-09-15;80;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Masculino;Maureen Lewis
+2025-09-16;81;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Dinheiro;Feminino;Christine Patterson
+2025-09-16;82;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Feminino;Richard Williams
+2025-09-16;83;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Pix;Feminino;Andrew Wright
+2025-09-16;84;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Dinheiro;Feminino;Lawrence Ragasa
+2025-09-16;85;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Débito;Feminino;Jimmie Stanley
+2025-09-16;86;SP;São Paulo;Fernanda Soares;Vestido;79,9;Pix;Feminino;Geneva Winesett
+2025-09-16;87;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Débito;Masculino;Yvonne Morrison
+2025-09-17;88;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Masculino;Eula Frias
+2025-09-17;89;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Dinheiro;Masculino;Joan Iverson
+2025-09-18;90;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;John Haley
+2025-09-18;91;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Cartão de Débito;Feminino;Jocelyn Williams
+2025-09-19;92;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Masculino;Juan Brill
+2025-09-19;93;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Masculino;Josephine Kerr
+2025-09-19;94;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Dinheiro;Feminino;Scott Gaither
+2025-09-19;95;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Masculino;Brenda Baxter
+2025-09-20;96;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Dinheiro;Masculino;Timothy Robbins
+2025-09-20;97;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Mario Lippert
+2025-09-20;98;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Dinheiro;Masculino;Mark Herrera
+2025-09-20;99;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Dinheiro;Feminino;Karen Estrella
+2025-09-21;100;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Feminino;Irene Tate
+2025-09-21;101;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Dinheiro;Masculino;Amanda Sargent
+2025-09-22;102;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Richard Hummel
+2025-09-22;103;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Feminino;Michael Taylor
+2025-09-22;104;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;Tabatha Terrell
+2025-09-22;105;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Crédito;Masculino;Brenda Robinson
+2025-09-22;106;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Débito;Masculino;Estela Chiarini
+2025-09-22;107;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Pix;Masculino;Carlos Green
+2025-09-22;108;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Débito;Masculino;Fawn Dunn
+2025-09-23;109;SP;São Paulo;Germano Martins;Saia;49,9;Pix;Masculino;Agnes Key
+2025-09-23;110;CE;Fortaleza;José Maria;Shorts;39,9;Pix;Masculino;Edward Plato
+2025-09-23;111;CE;Fortaleza;José Maria;Shorts;39,9;Pix;Masculino;Esther Cope
+2025-09-23;112;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Dinheiro;Feminino;Marsha Quinlivan
+2025-09-24;113;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Feminino;Doris Elliott
+2025-09-24;114;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Martin Larkin
+2025-09-24;115;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Débito;Masculino;Jennifer Gutierrez
+2025-09-24;116;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Débito;Feminino;Julia Williams
+2025-09-24;117;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Masculino;Louie Cormier
+2025-09-25;118;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Masculino;Helen Smith
+2025-09-25;119;SC;Florianópolis;Léco;Shorts;39,9;Dinheiro;Feminino;Dawn Livesay
+2025-09-25;120;SP;São Paulo;Fernanda Soares;Shorts;39,9;Pix;Feminino;Lula Bowlin
+2025-09-25;121;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Feminino;Virginia Nava
+2025-09-25;122;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Feminino;Barton Dammann
+2025-09-25;123;SC;Florianópolis;Léco;Chapéu;19,9;Dinheiro;Feminino;Henry Phillips
+2025-09-25;124;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Georgeanna Sias
+2025-09-25;125;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Kelsey Stone
+2025-09-26;126;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Feminino;Jonathan Gonzalez
+2025-09-26;127;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Dinheiro;Feminino;Jack Wong
+2025-09-26;128;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Masculino;William Foxx
+2025-09-26;129;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Judith Davy
+2025-09-27;130;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Masculino;Peter Jones
+2025-09-27;131;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Pix;Masculino;Amanda Jordan
+2025-09-27;132;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Masculino;James Brown
+2025-09-27;133;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Pix;Masculino;Aaron Jennings
+2025-09-27;134;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Crédito;Feminino;Fanny Henry
+2025-09-27;135;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Débito;Masculino;Gerry Garrison
+2025-09-27;136;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Pix;Masculino;Humberto Lane
+2025-09-27;137;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Crédito;Feminino;John Wesley
+2025-09-27;138;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Pix;Feminino;Ronald Patterson
+2025-09-28;139;SC;Florianópolis;Léco;Vestido;79,9;Dinheiro;Feminino;Francis Young
+2025-09-28;140;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Wm Riley
+2025-09-28;141;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Dinheiro;Masculino;Carmen Everett
+2025-09-29;142;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Feminino;Adam Clifton
+2025-09-29;143;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Masculino;Randall Brown
+2025-09-29;144;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Crédito;Masculino;Christopher Walker
+2025-09-29;145;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Feminino;Charles Tallant
+2025-09-30;146;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Feminino;Steven Taylor
+2025-09-30;147;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Feminino;Charles Mccain
+2025-09-30;148;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Feminino;Emmanuel Wilson
+2025-09-30;149;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Pix;Masculino;Kristi Smith
+2025-10-01;150;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Dinheiro;Feminino;Carolyn Newland
+2025-10-01;151;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Masculino;Dennis Schmidt
+2025-10-01;152;CE;Fortaleza;José Maria;Vestido;79,9;Pix;Masculino;Gary Morrison
+2025-10-01;153;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Ronald Ross
+2025-10-01;154;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Débito;Masculino;Samantha Garcia
+2025-10-01;155;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Débito;Feminino;Francisco Haggard
+2025-10-01;156;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Dinheiro;Masculino;Violet Smith
+2025-10-01;157;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Dinheiro;Masculino;Ryan Gentile
+2025-10-02;158;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Masculino;Kieth Rogers
+2025-10-02;159;SP;São Paulo;Fernanda Soares;Saia;49,9;Pix;Feminino;Stacy Burch
+2025-10-02;160;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Crédito;Masculino;Virginia Easley
+2025-10-03;161;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Débito;Masculino;Tracy Johnson
+2025-10-03;162;CE;Fortaleza;José Maria;Saia;49,9;Pix;Masculino;George Mcmahan
+2025-10-03;163;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Débito;Masculino;Scott Reif
+2025-10-03;164;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Joseph Galloway
+2025-10-03;165;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Pix;Feminino;Jesse Norton
+2025-10-03;166;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Dinheiro;Masculino;Cynthia Suarez
+2025-10-03;167;SC;Florianópolis;Léco;Saia;49,9;Pix;Feminino;James Justice
+2025-10-03;168;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Masculino;Bruce Saxe
+2025-10-03;169;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;James Cole
+2025-10-03;170;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Dinheiro;Masculino;Gerald Johnston
+2025-10-04;171;SC;Florianópolis;Léco;Blusa de Frio;89,9;Pix;Masculino;Gary Lytle
+2025-10-04;172;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Masculino;Donald Davis
+2025-10-04;173;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Crédito;Feminino;Amber Sheth
+2025-10-04;174;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Débito;Masculino;Joseph Wilson
+2025-10-05;175;CE;Fortaleza;Maria das Graças;Shorts;39,9;Pix;Feminino;Micheal Williams
+2025-10-05;176;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Masculino;Bernard Fazzino
+2025-10-05;177;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Dinheiro;Feminino;George Jackson
+2025-10-05;178;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Brett Driscoll
+2025-10-05;179;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Pix;Feminino;Fred Colson
+2025-10-05;180;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Feminino;Eric Ohara
+2025-10-05;181;SC;Florianópolis;Léco;Óculos de Sol;59,9;Dinheiro;Feminino;Thomas Stanley
+2025-10-05;182;SP;São Paulo;Fernanda Soares;Vestido;79,9;Dinheiro;Feminino;Mary Reyes
+2025-10-06;183;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Dinheiro;Feminino;Kenneth Winterholler
+2025-10-06;184;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Feminino;Gary Perdue
+2025-10-06;185;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Masculino;Paul Garcia
+2025-10-07;186;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Masculino;Ronald Roman
+2025-10-07;187;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Cartão de Crédito;Feminino;John Lam
+2025-10-07;188;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Dinheiro;Masculino;Karen Song
+2025-10-07;189;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Pix;Masculino;Ronald Finch
+2025-10-07;190;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Feminino;Ann Bethel
+2025-10-07;191;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Masculino;Tiffany Schmalz
+2025-10-07;192;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Dinheiro;Feminino;Robert Sitar
+2025-10-07;193;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Cartão de Crédito;Masculino;Donna Corvin
+2025-10-08;194;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Alpha Jay
+2025-10-08;195;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Crédito;Feminino;Alma Tobar
+2025-10-08;196;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Feminino;Keith Kane
+2025-10-09;197;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Pix;Masculino;Sarah Gonzales
+2025-10-09;198;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Calvin Wrape
+2025-10-09;199;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Débito;Masculino;David Moser
+2025-10-10;200;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Feminino;Stephen Schmidt
+2025-10-10;201;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Crédito;Feminino;James Perez
+2025-10-11;202;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Débito;Masculino;Ralph Turnipseed
+2025-10-11;203;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Feminino;James Ingram
+2025-10-11;204;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Débito;Feminino;Danny Hernandez
+2025-10-12;205;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Edgar Andrade
+2025-10-12;206;SC;Florianópolis;Léco;Blusa de Frio;89,9;Pix;Masculino;James Smith
+2025-10-12;207;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Pix;Masculino;Gloria Metzler
+2025-10-13;208;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Débito;Masculino;Doris Jacome
+2025-10-13;209;CE;Fortaleza;José Maria;Camiseta;29,9;Pix;Feminino;Tammy Holcomb
+2025-10-13;210;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Masculino;Spencer Greaves
+2025-10-13;211;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Pix;Masculino;Mary Graham
+2025-10-13;212;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Masculino;Willie Claytor
+2025-10-14;213;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Feminino;Susan West
+2025-10-14;214;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Crédito;Masculino;William Wilkins
+2025-10-14;215;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Judy Hardiman
+2025-10-14;216;CE;Fortaleza;José Maria;Vestido;79,9;Pix;Feminino;Christopher Junke
+2025-10-14;217;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Dinheiro;Feminino;Jean Kaufman
+2025-10-15;218;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Cartão de Débito;Feminino;Lou Rogers
+2025-10-15;219;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Dinheiro;Masculino;Matthew Bruner
+2025-10-15;220;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Crédito;Masculino;Courtney Lopez
+2025-10-15;221;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Pix;Masculino;Kristi Martin
+2025-10-15;222;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Pix;Masculino;Paul Raap
+2025-10-16;223;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Laura Weldon
+2025-10-17;224;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Pix;Feminino;Carolyn Langston
+2025-10-17;225;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Masculino;Julie Paul
+2025-10-17;226;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Crédito;Masculino;Rachel Peeples
+2025-10-17;227;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Dinheiro;Feminino;Seth Anderson
+2025-10-17;228;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Joel Fritter
+2025-10-17;229;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Feminino;Anna Baird
+2025-10-18;230;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Feminino;William Stone
+2025-10-18;231;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Pix;Masculino;George Elford
+2025-10-18;232;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Pix;Feminino;George Pogue
+2025-10-18;233;CE;Fortaleza;José Maria;Vestido;79,9;Pix;Masculino;William Maccormack
+2025-10-18;234;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Feminino;Ewa Washington
+2025-10-18;235;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Dinheiro;Masculino;James Johnson
+2025-10-18;236;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Feminino;Sue White
+2025-10-19;237;CE;Fortaleza;José Maria;Calça Jeans;99,9;Dinheiro;Masculino;Ronald Wedlow
+2025-10-19;238;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Feminino;Robert Miller
+2025-10-19;239;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Feminino;Donna Mcnulty
+2025-10-20;240;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Crédito;Masculino;Kendall Skinner
+2025-10-20;241;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Masculino;Everette Scott
+2025-10-20;242;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Dinheiro;Feminino;Robert Whisenhunt
+2025-10-20;243;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Feminino;Joseph Button
+2025-10-20;244;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;Marlene Davenport
+2025-10-21;245;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Masculino;Brenda Stewart
+2025-10-21;246;SP;São Paulo;Fernanda Soares;Shorts;39,9;Dinheiro;Feminino;Judith Tunstall
+2025-10-21;247;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Crédito;Masculino;Sandra Goldsmith
+2025-10-21;248;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Dinheiro;Feminino;Joan Hughes
+2025-10-21;249;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Pix;Feminino;Jeffery Enderle
+2025-10-21;250;CE;Fortaleza;Maria das Graças;Vestido;79,9;Dinheiro;Feminino;Kevin Weber
+2025-10-22;251;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Feminino;Jennifer Payne
+2025-10-22;252;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Alisa Kaan
+2025-10-22;253;CE;Fortaleza;José Maria;Shorts;39,9;Dinheiro;Masculino;Norma Enriquez
+2025-10-22;254;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Billy Steiger
+2025-10-22;255;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Débito;Masculino;Viola Oliver
+2025-10-22;256;SP;São Paulo;Germano Martins;Chapéu;19,9;Pix;Masculino;Richard Henry
+2025-10-23;257;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Dinheiro;Feminino;Barry Stalker
+2025-10-23;258;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Feminino;Helen Holton
+2025-10-23;259;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Crédito;Feminino;Larry Thomas
+2025-10-23;260;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Pix;Feminino;Emiko Hayden
+2025-10-23;261;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Dinheiro;Feminino;James Daniel
+2025-10-23;262;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Crédito;Feminino;Joy Patterson
+2025-10-23;263;SC;Florianópolis;Léco;Chapéu;19,9;Pix;Masculino;Jean Anderson
+2025-10-24;264;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Feminino;Dolores Harder
+2025-10-24;265;CE;Fortaleza;José Maria;Shorts;39,9;Dinheiro;Feminino;Kelli Harvey
+2025-10-24;266;CE;Fortaleza;Maria das Graças;Saia;49,9;Dinheiro;Masculino;Marcus Collins
+2025-10-24;267;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Masculino;Kyle Mcclain
+2025-10-24;268;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Pix;Feminino;Michael Isaacson
+2025-10-24;269;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Débito;Feminino;Gabriela Wallace
+2025-10-24;270;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Débito;Feminino;Edward Price
+2025-10-24;271;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Dinheiro;Feminino;Justin Morales
+2025-10-25;272;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Dale Bennett
+2025-10-25;273;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Dinheiro;Masculino;Jose Powel
+2025-10-25;274;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Feminino;Tiffany Reyes
+2025-10-25;275;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Crédito;Feminino;Robert Stevenson
+2025-10-25;276;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Dinheiro;Masculino;Avery Douglas
+2025-10-26;277;CE;Fortaleza;José Maria;Chapéu;19,9;Cartão de Crédito;Feminino;Charles Doucett
+2025-10-26;278;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Feminino;Mary Leone
+2025-10-27;279;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Eleanor Takacs
+2025-10-27;280;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Pix;Masculino;Joseph Lopez
+2025-10-27;281;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Michael Dawood
+2025-10-27;282;CE;Fortaleza;José Maria;Shorts;39,9;Dinheiro;Masculino;Julie Branham
+2025-10-28;283;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Débito;Masculino;Mary Shimmin
+2025-10-28;284;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Masculino;Frank Johnson
+2025-10-28;285;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Feminino;Rachel Jennings
+2025-10-28;286;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Pix;Feminino;Carl Fullmer
+2025-10-28;287;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Pix;Feminino;Ricky Brune
+2025-10-29;288;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Débito;Masculino;Sal Richards
+2025-10-29;289;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Masculino;Kevin Perry
+2025-10-29;290;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Débito;Feminino;Thomas Hawkins
+2025-10-29;291;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Feminino;Pamela Kent
+2025-10-29;292;SP;São Paulo;Fernanda Soares;Shorts;39,9;Pix;Feminino;Jennifer Lewis
+2025-10-29;293;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Cartão de Crédito;Masculino;Guillermo Taylor
+2025-10-29;294;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Débito;Feminino;Lorene Francis
+2025-10-30;295;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Masculino;Jennifer Tuttle
+2025-10-30;296;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Dinheiro;Masculino;Ronald Riggs
+2025-10-30;297;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Feminino;Gloria Brown
+2025-10-31;298;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Masculino;Hazel Warren
+2025-10-31;299;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Feminino;Nicholas Hirschman
+2025-10-31;300;SC;Florianópolis;Léco;Óculos de Sol;59,9;Pix;Masculino;Steve Hillman
+2025-10-31;301;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Dorothy Coffman
+2025-10-31;302;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Masculino;Wilfred Hughes
+2025-11-01;303;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Jeremy Truong
+2025-11-01;304;CE;Fortaleza;Maria das Graças;Shorts;39,9;Pix;Feminino;Marvin Mills
+2025-11-02;305;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Pix;Masculino;Misty Henry
+2025-11-02;306;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Débito;Masculino;Jamie Gillis
+2025-11-02;307;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Rose Collier
+2025-11-02;308;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Feminino;Stella Bourne
+2025-11-02;309;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Masculino;Tara Linderman
+2025-11-02;310;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Angel Flores
+2025-11-02;311;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Débito;Feminino;Arthur Wilkins
+2025-11-02;312;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Norman Kiser
+2025-11-02;313;CE;Fortaleza;José Maria;Saia;49,9;Dinheiro;Feminino;Susan Webb
+2025-11-02;314;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Débito;Feminino;Alice Lee
+2025-11-02;315;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Feminino;Mary Mackin
+2025-11-02;316;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Denise Robinson
+2025-11-02;317;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Ali Rodgers
+2025-11-03;318;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Masculino;Kimberly Lasalle
+2025-11-03;319;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Robert Arrott
+2025-11-03;320;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Masculino;Kristen Ricks
+2025-11-03;321;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Masculino;Caroline Rich
+2025-11-03;322;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Feminino;Hazel Lafleur
+2025-11-03;323;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Crédito;Masculino;Patricia Gochenour
+2025-11-03;324;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Dinheiro;Masculino;Deena Blackman
+2025-11-03;325;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Feminino;Mary Mccutchan
+2025-11-03;326;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Débito;Feminino;Charles Brumfield
+2025-11-03;327;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Débito;Feminino;Helga Prouty
+2025-11-04;328;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Feminino;Timothy Johnson
+2025-11-04;329;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Feminino;Lora Hurley
+2025-11-04;330;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Crédito;Feminino;Anita Saunders
+2025-11-04;331;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Débito;Feminino;Sally Lima
+2025-11-04;332;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Débito;Masculino;Lakiesha Ward
+2025-11-04;333;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Graciela Zenger
+2025-11-04;334;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Débito;Feminino;Douglas Kirk
+2025-11-05;335;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Robert Beckham
+2025-11-05;336;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Martin Mcdermott
+2025-11-06;337;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Masculino;James Weaver
+2025-11-06;338;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Crédito;Masculino;Angie Johnson
+2025-11-06;339;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Dinheiro;Feminino;Jennifer Thompson
+2025-11-06;340;SP;São Paulo;Germano Martins;Saia;49,9;Pix;Masculino;Gerald Mcpherson
+2025-11-06;341;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Pix;Masculino;Matthew Roldan
+2025-11-06;342;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Dinheiro;Feminino;Jose Devoll
+2025-11-06;343;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Pix;Masculino;Randolph Sherry
+2025-11-06;344;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Lisa Gonzalez
+2025-11-07;345;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Jessie Paul
+2025-11-07;346;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Patsy Ward
+2025-11-07;347;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;Juanita Evers
+2025-11-07;348;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;Johnny Lajoie
+2025-11-07;349;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Feminino;Susan Copeland
+2025-11-07;350;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Cartão de Débito;Feminino;Ali Rodriguez
+2025-11-07;351;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Pix;Masculino;Jimmy Olmstead
+2025-11-07;352;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Crédito;Masculino;Marita Holbrook
+2025-11-08;353;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Dinheiro;Masculino;Anthony Reid
+2025-11-08;354;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Feminino;Robert Abbasi
+2025-11-08;355;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Dinheiro;Feminino;Michael Vaughn
+2025-11-08;356;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Feminino;George Nittler
+2025-11-08;357;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Pix;Masculino;Donald Griffin
+2025-11-08;358;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Dinheiro;Masculino;Todd Harrington
+2025-11-09;359;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Cartão de Crédito;Feminino;Carla Nicholls
+2025-11-09;360;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Pamela Hubert
+2025-11-09;361;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Dinheiro;Feminino;Rufina Jennings
+2025-11-09;362;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Feminino;Saul Debonis
+2025-11-09;363;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Masculino;David Bowl
+2025-11-09;364;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Crédito;Feminino;Cecil Schwartz
+2025-11-10;365;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Dinheiro;Feminino;Angeline Dumesnil
+2025-11-10;366;CE;Fortaleza;José Maria;Camiseta;29,9;Dinheiro;Masculino;Robert Baumgardner
+2025-11-10;367;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Feminino;Lindsey Bush
+2025-11-10;368;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Dawne Machado
+2025-11-10;369;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Dinheiro;Masculino;Steven Ramirez
+2025-11-10;370;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Masculino;Brian Heineman
+2025-11-10;371;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Feminino;Dorothy Blanchard
+2025-11-11;372;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Adam Wilson
+2025-11-11;373;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Feminino;William Mulligan
+2025-11-11;374;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Masculino;Kim Thompson
+2025-11-11;375;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Masculino;Albert Medel
+2025-11-11;376;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Masculino;Cynthia Gay
+2025-11-11;377;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Peggy Waters
+2025-11-11;378;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Dinheiro;Masculino;Peter Stewart
+2025-11-12;379;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Débito;Masculino;Melissa Thornton
+2025-11-12;380;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Crédito;Feminino;Earl Brown
+2025-11-12;381;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Feminino;Ruth Neal
+2025-11-12;382;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Débito;Masculino;Aleta Cameron
+2025-11-12;383;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Henrietta Plourde
+2025-11-12;384;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Ruby Gonzalez
+2025-11-12;385;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Masculino;Heather Sheats
+2025-11-13;386;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Feminino;Justin Tucker
+2025-11-13;387;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Débito;Masculino;Richard Pence
+2025-11-13;388;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Pix;Feminino;Deborah Parks
+2025-11-13;389;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Jaime Delagarza
+2025-11-13;390;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Masculino;Ashley Mccaffrey
+2025-11-14;391;CE;Fortaleza;José Maria;Saia;49,9;Dinheiro;Masculino;Steve Lenart
+2025-11-14;392;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Gail Plaisance
+2025-11-14;393;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Masculino;William Cook
+2025-11-14;394;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;Juanita Berry
+2025-11-15;395;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Masculino;Sandra Sutherland
+2025-11-15;396;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Pix;Masculino;Janie Perreira
+2025-11-16;397;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Feminino;Constance Losh
+2025-11-16;398;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Pix;Masculino;Patsy Vizcarra
+2025-11-16;399;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Feminino;John Watkins
+2025-11-17;400;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Danny Mcnabb
+2025-11-17;401;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Masculino;Kristy Clark
+2025-11-17;402;CE;Fortaleza;Maria das Graças;Vestido;79,9;Dinheiro;Feminino;Reginald Provost
+2025-11-17;403;SC;Florianópolis;Léco;Saia;49,9;Cartão de Débito;Masculino;Maximo Mathis
+2025-11-17;404;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Mary Martin
+2025-11-18;405;SP;São Paulo;Fernanda Soares;Saia;49,9;Pix;Feminino;Josephine Whitaker
+2025-11-18;406;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Masculino;Priscilla Patton
+2025-11-18;407;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Pix;Masculino;John Williams
+2025-11-18;408;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Candy Stickler
+2025-11-19;409;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Crédito;Masculino;Beulah Sparks
+2025-11-19;410;SP;São Paulo;Germano Martins;Shorts;39,9;Dinheiro;Masculino;Hubert Creason
+2025-11-19;411;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Crédito;Masculino;Pamela Enz
+2025-11-19;412;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Dinheiro;Feminino;Fumiko York
+2025-11-19;413;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Todd Cottingham
+2025-11-20;414;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Débito;Feminino;Tracey Ross
+2025-11-20;415;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Masculino;Cindy Savarese
+2025-11-20;416;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Mike Lung
+2025-11-20;417;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Débito;Masculino;Richard Vicini
+2025-11-21;418;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Dinheiro;Feminino;Brenda Wooster
+2025-11-21;419;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Catherine Patwell
+2025-11-21;420;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Masculino;Irene Burns
+2025-11-21;421;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Pix;Feminino;Joyce Thompson
+2025-11-22;422;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Débito;Masculino;Michael Lambert
+2025-11-22;423;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Crédito;Feminino;Richard Patel
+2025-11-22;424;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Pix;Masculino;James Patrick
+2025-11-22;425;SP;São Paulo;Fernanda Soares;Vestido;79,9;Dinheiro;Masculino;Phebe Barbagallo
+2025-11-23;426;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Débito;Masculino;John Hoare
+2025-11-23;427;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Masculino;Donald Rich
+2025-11-23;428;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Masculino;Bradley Robinson
+2025-11-23;429;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Feminino;Jaqueline Johnson
+2025-11-23;430;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Dinheiro;Masculino;Phyllis Moon
+2025-11-23;431;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Pix;Feminino;Donald Chambers
+2025-11-23;432;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Joyce Young
+2025-11-23;433;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Feminino;Dorothea Braegelmann
+2025-11-23;434;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Crédito;Feminino;Fred Baptiste
+2025-11-23;435;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Randy Ellis
+2025-11-23;436;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Crédito;Feminino;Laverne Pace
+2025-11-24;437;CE;Fortaleza;José Maria;Vestido;79,9;Dinheiro;Feminino;Kyle Hermes
+2025-11-24;438;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Débito;Masculino;Patricia Layman
+2025-11-24;439;CE;Fortaleza;José Maria;Chapéu;19,9;Dinheiro;Feminino;Edith Edwards
+2025-11-24;440;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Lawanda Parlato
+2025-11-24;441;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Feminino;George Moseley
+2025-11-24;442;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Pix;Feminino;John Hutchinson
+2025-11-24;443;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Pix;Masculino;Chris Thompson
+2025-11-25;444;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Pix;Masculino;Marlene Green
+2025-11-25;445;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Dinheiro;Masculino;Martin Lampl
+2025-11-25;446;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Feminino;Benjamin Grant
+2025-11-25;447;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Pix;Masculino;Roy Broyles
+2025-11-25;448;CE;Fortaleza;José Maria;Vestido;79,9;Dinheiro;Masculino;Grace Oconnor
+2025-11-25;449;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Linda Luu
+2025-11-26;450;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Masculino;Arden Dewitt
+2025-11-26;451;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Débito;Masculino;Salley Davenport
+2025-11-26;452;SP;São Paulo;Fernanda Soares;Shorts;39,9;Pix;Masculino;Max Fanning
+2025-11-26;453;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Crédito;Feminino;Carmen Naylor
+2025-11-27;454;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Feminino;Paula Perkins
+2025-11-27;455;SC;Florianópolis;Léco;Saia;49,9;Pix;Feminino;Marc Cifelli
+2025-11-27;456;SC;Florianópolis;Léco;Vestido;79,9;Pix;Feminino;John Folkers
+2025-11-27;457;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Masculino;Mark Flaherty
+2025-11-28;458;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Dinheiro;Masculino;Nancy Lostroh
+2025-11-28;459;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Dinheiro;Masculino;Reginald Barnes
+2025-11-29;460;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Feminino;Alan Miller
+2025-11-29;461;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Numbers Sisk
+2025-11-29;462;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Crédito;Feminino;Jerry Rivera
+2025-11-29;463;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Masculino;Kirk Sydnor
+2025-11-29;464;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Feminino;Charles Bennett
+2025-11-29;465;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Dinheiro;Feminino;Tina Philpot
+2025-11-29;466;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Crédito;Feminino;Ruben Mayer
+2025-11-29;467;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Masculino;Shawn Aguero
+2025-11-29;468;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Débito;Feminino;William Nielson
+2025-11-30;469;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Masculino;Naomi Chan
+2025-11-30;470;CE;Fortaleza;José Maria;Saia;49,9;Pix;Feminino;Christopher Gossett
+2025-11-30;471;CE;Fortaleza;José Maria;Camiseta;29,9;Pix;Masculino;Richard Vietti
+2025-12-01;472;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Pix;Feminino;Floyd Smith
+2025-12-01;473;SP;São Paulo;Germano Martins;Shorts;39,9;Pix;Masculino;David Koch
+2025-12-01;474;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Dinheiro;Masculino;Mallory Viator
+2025-12-01;475;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Masculino;Lisa Simmons
+2025-12-01;476;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Masculino;Missy Haskell
+2025-12-01;477;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Pix;Masculino;Cora Eike
+2025-12-01;478;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Pix;Masculino;Brendan Stevens
+2025-12-02;479;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Pix;Feminino;Agatha Harris
+2025-12-02;480;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Feminino;Odell Brown
+2025-12-02;481;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Masculino;Tim Swinson
+2025-12-02;482;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Feminino;Elizabeth Gardner
+2025-12-02;483;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Pix;Masculino;Candice Ward
+2025-12-02;484;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Dinheiro;Feminino;Michael Bridge
+2025-12-03;485;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Hazel Melvin
+2025-12-03;486;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Masculino;Clotilde Barclay
+2025-12-03;487;SC;Florianópolis;Léco;Óculos de Sol;59,9;Dinheiro;Masculino;Carol Irving
+2025-12-03;488;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Dinheiro;Masculino;Herman Williams
+2025-12-03;489;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Evelyn Traylor
+2025-12-03;490;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Pix;Feminino;Joseph Littlejohn
+2025-12-03;491;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Crédito;Feminino;Diane Wannamaker
+2025-12-04;492;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Pix;Feminino;Christine Chapman
+2025-12-04;493;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Masculino;Michael Palmer
+2025-12-04;494;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Feminino;Alexander Hill
+2025-12-04;495;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Masculino;Barbara Lassiter
+2025-12-04;496;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Masculino;Megan Shin
+2025-12-04;497;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Joseph Greene
+2025-12-05;498;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Dinheiro;Feminino;Andrea West
+2025-12-05;499;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Masculino;Vicky Allen
+2025-12-05;500;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Feminino;Loretta Kryder
+2025-12-05;501;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;Allen White
+2025-12-05;502;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Pix;Masculino;Harvey Sulik
+2025-12-05;503;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Dinheiro;Masculino;Apryl Jackson
+2025-12-05;504;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Kevin Berglund
+2025-12-06;505;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Masculino;Daisy Mills
+2025-12-06;506;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Crédito;Feminino;Frank Owens
+2025-12-06;507;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Masculino;Vivian Williams
+2025-12-06;508;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Masculino;Lisa Gill
+2025-12-06;509;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Pix;Feminino;John Cox
+2025-12-06;510;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Débito;Masculino;Gertrude Huckaby
+2025-12-06;511;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Masculino;Erma Seery
+2025-12-06;512;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Feminino;Jesse Dozier
+2025-12-06;513;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Dinheiro;Masculino;Juan Braun
+2025-12-06;514;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Crédito;Feminino;Bruce Gay
+2025-12-07;515;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Dinheiro;Masculino;Steven Aasen
+2025-12-07;516;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Feminino;Pauline Gendel
+2025-12-07;517;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Pix;Feminino;Rosa Bruce
+2025-12-07;518;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Feminino;Dennis Horst
+2025-12-07;519;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Masculino;Jason Houston
+2025-12-07;520;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Feminino;Terri Chapa
+2025-12-08;521;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Masculino;Robert Rivera
+2025-12-08;522;SC;Florianópolis;Léco;Saia;49,9;Pix;Feminino;Fred Gunderson
+2025-12-08;523;CE;Fortaleza;José Maria;Vestido;79,9;Pix;Feminino;Conrad Wright
+2025-12-08;524;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Débito;Feminino;Loyd Clark
+2025-12-08;525;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Masculino;Rhoda Bair
+2025-12-09;526;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Débito;Masculino;James Wright
+2025-12-09;527;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Feminino;Lester Jacobs
+2025-12-09;528;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Débito;Feminino;Alan Carter
+2025-12-09;529;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Masculino;Arthur Young
+2025-12-09;530;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Masculino;Christopher Golden
+2025-12-09;531;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Feminino;Richard Ahn
+2025-12-09;532;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Débito;Feminino;Steve Scott
+2025-12-10;533;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Dinheiro;Feminino;Jean Lovelady
+2025-12-10;534;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Clementine Defenbaugh
+2025-12-10;535;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Masculino;Teresa Morgan
+2025-12-10;536;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Débito;Masculino;Rafael Warthen
+2025-12-10;537;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Feminino;Leann Spencer
+2025-12-10;538;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Karen Ackerman
+2025-12-10;539;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Nancy Woodson
+2025-12-10;540;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Masculino;Mary Freeman
+2025-12-11;541;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Feminino;Clayton Mock
+2025-12-11;542;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Masculino;Harvey Jones
+2025-12-11;543;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Crédito;Feminino;Deborah Caminiti
+2025-12-12;544;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Pix;Masculino;Steve Bayless
+2025-12-12;545;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Pix;Feminino;Tony So
+2025-12-13;546;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Pix;Feminino;Nicole Jones
+2025-12-13;547;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Pix;Masculino;Karen Laughlin
+2025-12-13;548;SP;São Paulo;Fernanda Soares;Vestido;79,9;Pix;Masculino;Donna Williams
+2025-12-13;549;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Masculino;Joseph Witherspoon
+2025-12-13;550;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Dinheiro;Masculino;Nakia Sheffer
+2025-12-13;551;SC;Florianópolis;Léco;Óculos de Sol;59,9;Cartão de Débito;Masculino;Ashley Ryals
+2025-12-14;552;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Pix;Feminino;Dorothy Brown
+2025-12-14;553;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Dinheiro;Feminino;Timothy Silmon
+2025-12-15;554;CE;Fortaleza;Maria das Graças;Shorts;39,9;Pix;Masculino;Joseph Knutson
+2025-12-15;555;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Pix;Masculino;David Hill
+2025-12-16;556;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Feminino;Robin Lane
+2025-12-16;557;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Masculino;Edna Aliff
+2025-12-16;558;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Feminino;Cecil Franco
+2025-12-16;559;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Feminino;Cindy Daugherty
+2025-12-17;560;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Crédito;Feminino;Michael Logan
+2025-12-17;561;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Feminino;Eleanor Nichols
+2025-12-17;562;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Crédito;Feminino;Dewayne Sanchez
+2025-12-17;563;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Dinheiro;Masculino;Yvette Owen
+2025-12-18;564;SC;Florianópolis;Léco;Vestido;79,9;Pix;Feminino;Charles Bachelor
+2025-12-18;565;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Pix;Feminino;Cindy Lucas
+2025-12-18;566;SP;São Paulo;Germano Martins;Chapéu;19,9;Pix;Masculino;Robert Gilbar
+2025-12-18;567;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Dinheiro;Masculino;Joseph Johnston
+2025-12-18;568;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Masculino;Adela Taylor
+2025-12-19;569;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Débito;Masculino;Lois Prather
+2025-12-19;570;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Pix;Feminino;Nancy Quinn
+2025-12-19;571;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Bernice Bakerville
+2025-12-19;572;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Masculino;Jennifer Ramos
+2025-12-20;573;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Pix;Masculino;Caitlin Fowler
+2025-12-20;574;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Dinheiro;Masculino;Liza Riddle
+2025-12-20;575;CE;Fortaleza;Maria das Graças;Shorts;39,9;Pix;Feminino;Carole Fletcher
+2025-12-20;576;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;John Tirado
+2025-12-20;577;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Feminino;Dave Hopkins
+2025-12-20;578;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Martin Jenkins
+2025-12-21;579;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Crédito;Masculino;Jeremy Stonerock
+2025-12-21;580;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Pix;Feminino;Catherine Peay
+2025-12-21;581;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Pix;Feminino;Charles Spears
+2025-12-21;582;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Débito;Feminino;Leroy Young
+2025-12-21;583;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Todd Bradley
+2025-12-22;584;CE;Fortaleza;Maria das Graças;Shorts;39,9;Dinheiro;Feminino;Olive Selph
+2025-12-22;585;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Masculino;Myrta Balderas
+2025-12-22;586;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Débito;Masculino;Richard Southern
+2025-12-22;587;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Hazel Robbins
+2025-12-22;588;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Masculino;Nicholas Allen
+2025-12-23;589;CE;Fortaleza;José Maria;Chapéu;19,9;Dinheiro;Masculino;Edward Paulsen
+2025-12-23;590;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Masculino;Noelia Thompson
+2025-12-23;591;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Débito;Masculino;Faye Kemp
+2025-12-23;592;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Crédito;Feminino;Kendra Gary
+2025-12-23;593;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Débito;Feminino;Rocio Winebarger
+2025-12-24;594;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Pix;Masculino;John Lunford
+2025-12-24;595;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Crédito;Masculino;Brenda Robicheaux
+2025-12-24;596;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Crédito;Feminino;Rob Carr
+2025-12-25;597;CE;Fortaleza;Maria das Graças;Vestido;79,9;Dinheiro;Masculino;Nancy Durkin
+2025-12-25;598;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Feminino;Patricia Brooks
+2025-12-25;599;SC;Florianópolis;Léco;Vestido;79,9;Pix;Masculino;Julia Pannenbacker
+2025-12-25;600;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Masculino;Anna Rosenstock
+2025-12-25;601;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Crédito;Masculino;Peter Stebbins
+2025-12-25;602;SP;São Paulo;Fernanda Soares;Vestido;79,9;Pix;Masculino;Mark Soria
+2025-12-25;603;CE;Fortaleza;José Maria;Saia;49,9;Pix;Masculino;Donald Barbieri
+2025-12-25;604;SC;Florianópolis;Léco;Saia;49,9;Pix;Masculino;Ryan Shulte
+2025-12-25;605;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Dinheiro;Masculino;Bob Hammack
+2025-12-25;606;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Lauri Seebach
+2025-12-26;607;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Patricia Gressler
+2025-12-26;608;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Feminino;Raymond Ruse
+2025-12-26;609;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Crédito;Feminino;William France
+2025-12-26;610;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Masculino;Phyllis Parker
+2025-12-27;611;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Débito;Masculino;Yvonne Brown
+2025-12-27;612;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Feminino;Julio Mucci
+2025-12-27;613;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Débito;Feminino;Adam Strother
+2025-12-27;614;CE;Fortaleza;José Maria;Chapéu;19,9;Pix;Masculino;Bettye Lindsey
+2025-12-28;615;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Feminino;Carl Bryant
+2025-12-28;616;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Dinheiro;Masculino;Greta Grant
+2025-12-28;617;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Débito;Masculino;Phillip Warren
+2025-12-28;618;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Cartão de Débito;Masculino;John Almond
+2025-12-28;619;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Débito;Masculino;Charles Marquez
+2025-12-29;620;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Feminino;Sean Troia
+2025-12-29;621;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Crédito;Masculino;Meaghan Valladares
+2025-12-29;622;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Pix;Masculino;Elsie Romero
+2025-12-29;623;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Pix;Masculino;Patrick Morales
+2025-12-29;624;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Ray Gustafson
+2025-12-29;625;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Débito;Masculino;Robert Fuller
+2025-12-30;626;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Richard Paschall
+2025-12-30;627;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Dinheiro;Masculino;Yvette Puff
+2025-12-30;628;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Tyler Credi
+2025-12-30;629;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Feminino;Gregory Ramirez
+2025-12-30;630;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Crédito;Masculino;Beatrice Bartlett
+2025-12-30;631;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Feminino;Timothy Kasper
+2025-12-31;632;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Kevin Wilson
+2025-12-31;633;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Feminino;Victor Mcgrew
+2025-12-31;634;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Albert Casey
+2025-12-31;635;CE;Fortaleza;Maria das Graças;Shorts;39,9;Pix;Masculino;Elizabeth Mcelvain
+2025-12-31;636;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Masculino;Shaneka Lamore
+2025-12-31;637;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Dinheiro;Masculino;William Breheny
+2025-12-31;638;CE;Fortaleza;José Maria;Calça Jeans;99,9;Pix;Feminino;Michael Martin
+2026-01-01;639;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Feminino;Gladys Barta
+2026-01-01;640;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Débito;Feminino;Anita Muresan
+2026-01-01;641;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Masculino;Sylvia Hurlock
+2026-01-01;642;SC;Florianópolis;Léco;Shorts;39,9;Dinheiro;Masculino;Debra Richardson
+2026-01-01;643;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Dinheiro;Feminino;Christopher Ong
+2026-01-01;644;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Angelica Miller
+2026-01-02;645;SC;Florianópolis;Léco;Saia;49,9;Pix;Masculino;Earl Morrell
+2026-01-02;646;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Dinheiro;Masculino;Wayne Kaehler
+2026-01-02;647;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Crédito;Masculino;Keith Holly
+2026-01-02;648;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Feminino;Chester Black
+2026-01-02;649;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Douglas Woods
+2026-01-02;650;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Masculino;David Andrews
+2026-01-02;651;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Dinheiro;Masculino;Amy Koontz
+2026-01-02;652;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Feminino;Samantha Fidler
+2026-01-02;653;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Feminino;Richard Milam
+2026-01-02;654;CE;Fortaleza;José Maria;Chapéu;19,9;Dinheiro;Feminino;Joseph Baker
+2026-01-03;655;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Feminino;Sandy Swink
+2026-01-03;656;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Feminino;Carolyn Holstein
+2026-01-03;657;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Jeffrey Sether
+2026-01-03;658;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Crédito;Feminino;Kevin Browning
+2026-01-03;659;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Masculino;Steven Dey
+2026-01-04;660;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Cartão de Crédito;Feminino;Carla Moore
+2026-01-04;661;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Masculino;Brian Baldyga
+2026-01-04;662;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Samuel Ferrini
+2026-01-05;663;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Débito;Masculino;Edward Parker
+2026-01-05;664;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Owen Becher
+2026-01-05;665;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Pix;Masculino;Travis Demond
+2026-01-05;666;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Stephanie Burns
+2026-01-05;667;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Delores Adams
+2026-01-05;668;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Débito;Feminino;Kelly Riddle
+2026-01-05;669;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Dinheiro;Masculino;Jenna Chandler
+2026-01-06;670;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Donald Saunders
+2026-01-06;671;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Feminino;Clyde Crawford
+2026-01-06;672;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Jeffrey Carlton
+2026-01-06;673;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Crédito;Masculino;Kenneth Shelvey
+2026-01-06;674;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Joe Roldan
+2026-01-07;675;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Débito;Masculino;Mark Mcguire
+2026-01-07;676;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Pix;Masculino;Barbara Gallagher
+2026-01-07;677;CE;Fortaleza;José Maria;Shorts;39,9;Pix;Masculino;Clara Pocai
+2026-01-07;678;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Masculino;Timothy Fitz
+2026-01-07;679;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Masculino;Devin Hernandez
+2026-01-07;680;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Masculino;Mildred Webb
+2026-01-07;681;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Débito;Feminino;Daniel Mannings
+2026-01-07;682;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Débito;Masculino;Darlene Hague
+2026-01-08;683;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Débito;Feminino;Chun Allard
+2026-01-08;684;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Crédito;Masculino;Perry Funke
+2026-01-08;685;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Pix;Masculino;Jim Randall
+2026-01-08;686;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Carl Smith
+2026-01-08;687;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Feminino;Brian Cox
+2026-01-09;688;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Masculino;Mary Vath
+2026-01-09;689;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Dinheiro;Feminino;Gerald Smith
+2026-01-10;690;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Dinheiro;Feminino;Matilda Miller
+2026-01-10;691;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Pix;Feminino;Miranda Porter
+2026-01-10;692;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Era Semaan
+2026-01-10;693;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Crédito;Feminino;Kenneth Townsend
+2026-01-11;694;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Jan Yeatts
+2026-01-11;695;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Masculino;Jody Tong
+2026-01-11;696;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Pix;Masculino;Willie Williams
+2026-01-11;697;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Masculino;Richard White
+2026-01-12;698;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Feminino;Sandra Sweeney
+2026-01-12;699;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Dinheiro;Feminino;Shirley Omalley
+2026-01-12;700;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Masculino;Robert Rochat
+2026-01-12;701;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Feminino;Christopher Fralin
+2026-01-12;702;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Pix;Masculino;Victor Hagar
+2026-01-12;703;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Pix;Feminino;Margaret Maurin
+2026-01-13;704;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Crédito;Masculino;Brian Fleming
+2026-01-13;705;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Crédito;Feminino;Lauren Spotwood
+2026-01-13;706;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Feminino;Cynthia Bradford
+2026-01-13;707;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Crédito;Feminino;Paul Coleman
+2026-01-13;708;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Masculino;Brandi Perkins
+2026-01-13;709;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Masculino;Regina Graham
+2026-01-14;710;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Dinheiro;Feminino;Penny Brown
+2026-01-14;711;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Peter Hallberg
+2026-01-14;712;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Débito;Feminino;Rodney Savitch
+2026-01-14;713;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Débito;Feminino;Tiffanie Field
+2026-01-14;714;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;William Washington
+2026-01-14;715;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Crédito;Masculino;Robert Stalcup
+2026-01-14;716;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Cartão de Débito;Feminino;Geraldine Rolf
+2026-01-15;717;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Pedro Ezell
+2026-01-15;718;SC;Florianópolis;Léco;Óculos de Sol;59,9;Dinheiro;Feminino;Heather Mclemore
+2026-01-15;719;SC;Florianópolis;Léco;Shorts;39,9;Pix;Masculino;Kathleen Thames
+2026-01-15;720;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Masculino;Sandra Teets
+2026-01-15;721;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Charles Burgess
+2026-01-16;722;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Feminino;Brian Coplan
+2026-01-16;723;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Feminino;Gilbert Igbal
+2026-01-16;724;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Jose Thompson
+2026-01-16;725;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Débito;Masculino;Melissa Walters
+2026-01-17;726;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Débito;Feminino;Ernest Adams
+2026-01-18;727;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Monica Rude
+2026-01-18;728;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Masculino;Brandy Sato
+2026-01-18;729;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Dinheiro;Feminino;Melissa Martelli
+2026-01-18;730;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Pix;Feminino;Roosevelt Haws
+2026-01-18;731;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Feminino;Ted Nunes
+2026-01-18;732;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Dinheiro;Feminino;Charlene Wortman
+2026-01-19;733;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Feminino;Vannesa Paul
+2026-01-19;734;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Feminino;Albert Tyson
+2026-01-19;735;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Masculino;Dorothy Barnes
+2026-01-19;736;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Dinheiro;Feminino;Dalene Neyhart
+2026-01-19;737;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Masculino;Debra Haugen
+2026-01-19;738;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Masculino;Sammie Lor
+2026-01-19;739;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Feminino;Carrie Sussman
+2026-01-19;740;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Pix;Feminino;Susan Harris
+2026-01-20;741;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Dinheiro;Feminino;Jimmy Metheney
+2026-01-20;742;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Débito;Feminino;Brandon Neal
+2026-01-20;743;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Dinheiro;Masculino;Ross Arnold
+2026-01-20;744;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Masculino;Elsie Jones
+2026-01-21;745;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;James Martinek
+2026-01-21;746;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Débito;Feminino;Debby Farrell
+2026-01-21;747;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Pix;Masculino;Cherie Thomas
+2026-01-21;748;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Débito;Feminino;Jennifer Burns
+2026-01-21;749;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Feminino;Gerald Daniel
+2026-01-22;750;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Débito;Feminino;Barbara Craig
+2026-01-22;751;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Pix;Feminino;Patricia Sturges
+2026-01-22;752;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;Christopher Robertson
+2026-01-22;753;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Feminino;George Wilson
+2026-01-22;754;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;William White
+2026-01-23;755;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Mary Maheu
+2026-01-23;756;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Pix;Masculino;Heather Phillips
+2026-01-23;757;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Pix;Feminino;Anthony Montana
+2026-01-23;758;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;Esther Mccandless
+2026-01-23;759;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Feminino;Duane Woods
+2026-01-23;760;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Débito;Masculino;Tammy Perez
+2026-01-23;761;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Feminino;Amelia Mcneill
+2026-01-23;762;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Lucio Macdonald
+2026-01-23;763;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Dinheiro;Feminino;Temika Stokes
+2026-01-24;764;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Cartão de Crédito;Feminino;John Anderson
+2026-01-24;765;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;James Baker
+2026-01-24;766;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Melissa Palacios
+2026-01-24;767;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Dinheiro;Masculino;Matthew Parrish
+2026-01-24;768;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Débito;Masculino;Christopher Saenz
+2026-01-24;769;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Sherrie Smith
+2026-01-25;770;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Pix;Feminino;Javier Bagwell
+2026-01-25;771;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Michelle Brown
+2026-01-25;772;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Cartão de Débito;Masculino;Steven Davis
+2026-01-25;773;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Feminino;Juan Maretti
+2026-01-25;774;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Feminino;Shannon Meyer
+2026-01-25;775;SP;São Paulo;Germano Martins;Vestido;79,9;Cartão de Crédito;Feminino;Rose Conard
+2026-01-25;776;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Débito;Masculino;Ruth Patton
+2026-01-25;777;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Jim Bankhead
+2026-01-26;778;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Débito;Feminino;Robert Carter
+2026-01-26;779;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;James Turner
+2026-01-26;780;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Feminino;James Ward
+2026-01-26;781;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Feminino;Joel Platt
+2026-01-26;782;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Clara Pierson
+2026-01-27;783;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Carina Archuleta
+2026-01-27;784;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Pix;Feminino;Gayle Leslie
+2026-01-27;785;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Dinheiro;Feminino;Earl Verrelli
+2026-01-28;786;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Jessica Hyland
+2026-01-28;787;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Pix;Feminino;Christina Rogers
+2026-01-28;788;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Dinheiro;Masculino;Roy Trell
+2026-01-28;789;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Masculino;James Suzuki
+2026-01-29;790;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Dinheiro;Feminino;Shirley Johnson
+2026-01-29;791;SC;Florianópolis;Léco;Chapéu;19,9;Cartão de Crédito;Masculino;Jeanne Temple
+2026-01-29;792;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Pix;Masculino;Melanie Leja
+2026-01-29;793;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Masculino;Marie Cooper
+2026-01-29;794;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Pix;Masculino;Alexander Moore
+2026-01-29;795;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Feminino;James Kim
+2026-01-29;796;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Débito;Masculino;Elida Austin
+2026-01-30;797;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Masculino;Ryan Warner
+2026-01-30;798;SP;São Paulo;Germano Martins;Shorts;39,9;Pix;Masculino;April Bender
+2026-01-30;799;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Dinheiro;Masculino;Gregory Arnold
+2026-01-31;800;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Feminino;Michael Anderson
+2026-01-31;801;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Dinheiro;Masculino;Tommy Gildersleeve
+2026-01-31;802;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Andres Szerszen
+2026-01-31;803;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Débito;Feminino;Louis Carter
+2026-01-31;804;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Winston Worthington
+2026-02-01;805;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Linda Carr
+2026-02-01;806;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Feminino;Casey Horne
+2026-02-01;807;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Jared Cotten
+2026-02-01;808;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Pix;Feminino;Joseph Werkhoven
+2026-02-02;809;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Dinheiro;Feminino;Sandra Morgan
+2026-02-02;810;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Masculino;Susan Bell
+2026-02-02;811;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Masculino;John Horkey
+2026-02-03;812;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Feminino;Leanne Gutierrez
+2026-02-03;813;SP;São Paulo;Fernanda Soares;Shorts;39,9;Dinheiro;Feminino;Hector Allen
+2026-02-03;814;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Débito;Feminino;Mary Larson
+2026-02-03;815;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Masculino;Heather Matthai
+2026-02-03;816;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Feminino;Brandon Myers
+2026-02-03;817;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Pix;Masculino;Marilyn Moore
+2026-02-03;818;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Dinheiro;Feminino;Austin Carpenter
+2026-02-03;819;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Dinheiro;Feminino;Adolph Ross
+2026-02-03;820;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Crédito;Feminino;Julia Temple
+2026-02-04;821;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Feminino;Elizabeth Miller
+2026-02-04;822;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Débito;Feminino;James Dergance
+2026-02-04;823;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Débito;Masculino;Dale Ciresi
+2026-02-04;824;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Feminino;Danielle Colgan
+2026-02-04;825;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Dinheiro;Feminino;Marsha Green
+2026-02-04;826;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Masculino;Marlin Smith
+2026-02-04;827;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Masculino;Karen Estes
+2026-02-05;828;SP;São Paulo;Germano Martins;Shorts;39,9;Pix;Masculino;Marie Hamilton
+2026-02-05;829;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Delores Ruiz
+2026-02-06;830;SC;Florianópolis;Léco;Camiseta;29,9;Pix;Masculino;Julia Lewis
+2026-02-06;831;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Pix;Masculino;William Moore
+2026-02-06;832;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Dinheiro;Masculino;Neal Wertz
+2026-02-06;833;CE;Fortaleza;Maria das Graças;Saia;49,9;Pix;Masculino;Larry Livingston
+2026-02-06;834;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Feminino;Donald Kilroy
+2026-02-06;835;SP;São Paulo;Germano Martins;Vestido;79,9;Cartão de Crédito;Masculino;Timothy Landry
+2026-02-07;836;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Masculino;Leslie Day
+2026-02-07;837;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Frank Jones
+2026-02-07;838;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Pix;Feminino;Anabel Blackburn
+2026-02-07;839;CE;Fortaleza;José Maria;Shorts;39,9;Pix;Masculino;Jimmy Malone
+2026-02-07;840;SC;Florianópolis;Léco;Blusa de Frio;89,9;Pix;Masculino;Renee Dennis
+2026-02-07;841;CE;Fortaleza;Maria das Graças;Shorts;39,9;Pix;Masculino;Jesus Eichorn
+2026-02-08;842;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Cartão de Crédito;Feminino;Jason Peters
+2026-02-08;843;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Feminino;John Harper
+2026-02-08;844;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Masculino;David Yarmitsky
+2026-02-08;845;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Terri Catron
+2026-02-08;846;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Feminino;David Parker
+2026-02-08;847;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Dinheiro;Feminino;Robert Castillo
+2026-02-08;848;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Loan Loepp
+2026-02-08;849;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Carla Grev
+2026-02-08;850;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Michele Jackson
+2026-02-08;851;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Pix;Masculino;Robert Dicicco
+2026-02-09;852;SP;São Paulo;Fernanda Soares;Saia;49,9;Pix;Masculino;George Austin
+2026-02-09;853;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Pix;Masculino;Omar Mcleod
+2026-02-09;854;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Dinheiro;Feminino;Ana Zapien
+2026-02-09;855;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Pix;Feminino;Shannon Moreno
+2026-02-09;856;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Dinheiro;Masculino;Charles Robinson
+2026-02-09;857;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Masculino;Daphine Diana
+2026-02-09;858;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Dinheiro;Masculino;Dennis Carr
+2026-02-10;859;SC;Florianópolis;Léco;Óculos de Sol;59,9;Cartão de Débito;Masculino;Trenton Lukens
+2026-02-10;860;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Pix;Masculino;Roland Velasco
+2026-02-10;861;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Crédito;Masculino;Bonita Sincell
+2026-02-10;862;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Masculino;Rhonda Huerta
+2026-02-10;863;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Masculino;Clifford Gillenwaters
+2026-02-10;864;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Larry Pina
+2026-02-11;865;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Feminino;Corey Pinckney
+2026-02-11;866;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Mary Showman
+2026-02-11;867;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Masculino;Marisa Olinger
+2026-02-11;868;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Crédito;Feminino;Dorthy Francis
+2026-02-11;869;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Feminino;Melissa Hayes
+2026-02-12;870;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Raymond Mellerson
+2026-02-12;871;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Dinheiro;Masculino;Leticia Ross
+2026-02-12;872;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Feminino;Carol Plack
+2026-02-12;873;CE;Fortaleza;Maria das Graças;Vestido;79,9;Dinheiro;Feminino;Janice Finch
+2026-02-13;874;SP;São Paulo;Fernanda Soares;Shorts;39,9;Dinheiro;Masculino;Dianne Hendricks
+2026-02-13;875;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Feminino;Martha Henderson
+2026-02-13;876;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Masculino;Ruth Conly
+2026-02-13;877;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Feminino;Joshua Rounds
+2026-02-13;878;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Feminino;Clarence Foster
+2026-02-14;879;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Feminino;Francis Cowden
+2026-02-14;880;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Débito;Masculino;Peggy Throckmorton
+2026-02-14;881;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Masculino;Ryan Barclay
+2026-02-14;882;SP;São Paulo;Fernanda Soares;Vestido;79,9;Pix;Masculino;Morgan Yancy
+2026-02-15;883;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Pix;Masculino;Bertha Roman
+2026-02-15;884;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Feminino;Rachel Cupps
+2026-02-15;885;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Pix;Feminino;Ruth Reed
+2026-02-15;886;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Débito;Masculino;Dennis Diaz
+2026-02-16;887;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Crédito;Feminino;Miriam Fain
+2026-02-16;888;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Helen Smith
+2026-02-16;889;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Masculino;Candice Butcher
+2026-02-16;890;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Sara Lockhart
+2026-02-17;891;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Feminino;Delmar Trongone
+2026-02-17;892;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Crédito;Masculino;Gloria Sulc
+2026-02-17;893;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Brenda Parks
+2026-02-17;894;SP;São Paulo;Fernanda Soares;Saia;49,9;Pix;Feminino;Scott Sahsman
+2026-02-17;895;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Pix;Masculino;Virginia Mckinney
+2026-02-17;896;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Armida King
+2026-02-18;897;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Rodney Burr
+2026-02-18;898;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Dinheiro;Feminino;Dean Mashak
+2026-02-18;899;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Débito;Masculino;Judy Agin
+2026-02-19;900;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Pauline Battle
+2026-02-19;901;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Feminino;Gloria Lippert
+2026-02-19;902;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Débito;Masculino;Jennifer Kasper
+2026-02-19;903;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Masculino;Frank Hall
+2026-02-19;904;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Fred Crist
+2026-02-20;905;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Timothy Pope
+2026-02-20;906;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Feminino;Juan Richardson
+2026-02-20;907;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Feminino;Leopoldo Misiak
+2026-02-20;908;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Débito;Masculino;Florence Sagen
+2026-02-20;909;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Masculino;Iris Moore
+2026-02-20;910;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Dinheiro;Feminino;Patricia Romero
+2026-02-20;911;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Feminino;Stephen Washburn
+2026-02-21;912;SP;São Paulo;Germano Martins;Vestido;79,9;Cartão de Débito;Feminino;Daryl Hastings
+2026-02-21;913;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Feminino;Theresa Weaver
+2026-02-21;914;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Débito;Feminino;Gary Hurd
+2026-02-21;915;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Feminino;Alex Ammerman
+2026-02-21;916;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Dinheiro;Masculino;Larry Jackson
+2026-02-21;917;CE;Fortaleza;José Maria;Shorts;39,9;Pix;Feminino;Theresa Rhodes
+2026-02-22;918;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Masculino;Donna Taylor
+2026-02-22;919;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Masculino;Margie York
+2026-02-22;920;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Maria Wenzel
+2026-02-22;921;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Frank Slape
+2026-02-22;922;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Fern Hefner
+2026-02-22;923;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Débito;Feminino;William Witham
+2026-02-23;924;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Pix;Feminino;Nathan Pero
+2026-02-23;925;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Feminino;Andrew White
+2026-02-23;926;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Crédito;Feminino;Joyce Roccio
+2026-02-23;927;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Toby Carey
+2026-02-23;928;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Masculino;Guy Cheeks
+2026-02-24;929;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Masculino;Irvin Vandyke
+2026-02-24;930;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Larry Pulver
+2026-02-24;931;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Cartão de Crédito;Feminino;Daniel Biddle
+2026-02-24;932;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Pix;Masculino;Petra Washington
+2026-02-24;933;SC;Florianópolis;Léco;Shorts;39,9;Pix;Masculino;Franklin Sanders
+2026-02-25;934;SC;Florianópolis;Léco;Óculos de Sol;59,9;Dinheiro;Masculino;Marcos Larkin
+2026-02-25;935;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Johnny Bryant
+2026-02-25;936;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Masculino;Dean Burke
+2026-02-25;937;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Dinheiro;Masculino;Leticia Boydston
+2026-02-25;938;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Pix;Masculino;Roger Richey
+2026-02-26;939;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Feminino;Jana Bennett
+2026-02-26;940;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Débito;Masculino;Staci Carlson
+2026-02-26;941;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Crédito;Feminino;Roger Green
+2026-02-26;942;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Dinheiro;Masculino;Jackqueline Seaberry
+2026-02-26;943;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Masculino;Natasha Manning
+2026-02-27;944;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Crédito;Masculino;Maurice Stephens
+2026-02-27;945;CE;Fortaleza;Maria das Graças;Vestido;79,9;Dinheiro;Masculino;Jessica Mcdonald
+2026-02-27;946;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Rosemary Kim
+2026-02-27;947;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Feminino;Keely Winchester
+2026-02-27;948;CE;Fortaleza;José Maria;Saia;49,9;Pix;Masculino;Nathaniel Foster
+2026-02-28;949;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Débito;Feminino;Elaine Schiefelbein
+2026-02-28;950;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Feminino;Kathleen Foster
+2026-02-28;951;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Pix;Masculino;Florence Austin
+2026-02-28;952;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Débito;Feminino;Christi Ramos
+2026-02-28;953;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Débito;Masculino;Susana Shunk
+2026-02-28;954;SP;São Paulo;Germano Martins;Saia;49,9;Pix;Feminino;Margaret Cross
+2026-03-01;955;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Masculino;Robert Whittenburg
+2026-03-01;956;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Isela Tran
+2026-03-01;957;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Dinheiro;Feminino;Guadalupe Dickey
+2026-03-01;958;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Gwendolyn Patrick
+2026-03-02;959;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;James Peabody
+2026-03-02;960;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Dinheiro;Masculino;Carolyn Chevas
+2026-03-02;961;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Mike Bell
+2026-03-02;962;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Dinheiro;Masculino;Shirley Raper
+2026-03-03;963;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Débito;Feminino;Kristine Morris
+2026-03-03;964;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Masculino;Frank Mcduffy
+2026-03-03;965;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Dinheiro;Feminino;Thomas Wood
+2026-03-03;966;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Elizabeth Page
+2026-03-04;967;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Feminino;David Ramos
+2026-03-04;968;CE;Fortaleza;José Maria;Calça Jeans;99,9;Dinheiro;Masculino;John Heller
+2026-03-04;969;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Pix;Feminino;Kyle Delacruz
+2026-03-04;970;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Feminino;Leslie Wise
+2026-03-04;971;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Feminino;Walter Brooks
+2026-03-05;972;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Pix;Masculino;Stephanie Cohee
+2026-03-05;973;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Débito;Feminino;Philip Martin
+2026-03-05;974;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Pix;Feminino;James Epperson
+2026-03-05;975;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Feminino;Tracy Robinson
+2026-03-05;976;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Dinheiro;Feminino;Tiana Gilyard
+2026-03-05;977;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Crédito;Masculino;Judy Nunnery
+2026-03-05;978;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Adriana Armstrong
+2026-03-05;979;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Danny Gregory
+2026-03-05;980;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Masculino;Fannie Mccraw
+2026-03-06;981;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Mario Snellings
+2026-03-06;982;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;Herbert Holley
+2026-03-06;983;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Feminino;Terrance Alpert
+2026-03-06;984;CE;Fortaleza;José Maria;Camiseta;29,9;Pix;Masculino;Michael Fogle
+2026-03-06;985;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Cartão de Crédito;Feminino;Martha Barry
+2026-03-06;986;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Tracy Nguyen
+2026-03-07;987;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Charles Saez
+2026-03-07;988;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Feminino;Christopher Vang
+2026-03-07;989;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Masculino;Refugio Bolden
+2026-03-07;990;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Feminino;Ben Botha
+2026-03-07;991;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Masculino;Angelica Rogers
+2026-03-07;992;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Crédito;Masculino;Charles Morrow
+2026-03-08;993;SP;São Paulo;Fernanda Soares;Shorts;39,9;Dinheiro;Masculino;Larry Bailey
+2026-03-08;994;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Pix;Feminino;Charlene Powell
+2026-03-08;995;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Masculino;John Millard
+2026-03-08;996;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Masculino;Marion Gutshall
+2026-03-08;997;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Charles Royster
+2026-03-08;998;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Dinheiro;Feminino;Ruth Colucci
+2026-03-09;999;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Pix;Feminino;Mark Cates
+2026-03-09;1000;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Feminino;Jim Wilson
+2026-03-09;1001;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Feminino;Joel Mclaughlin
+2026-03-09;1002;CE;Fortaleza;José Maria;Saia;49,9;Pix;Masculino;Lidia Halford
+2026-03-09;1003;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Masculino;Daisy Bursi
+2026-03-10;1004;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Feminino;Louise Khan
+2026-03-10;1005;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Feminino;Cynthia Miranda
+2026-03-10;1006;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Pix;Masculino;James Morales
+2026-03-10;1007;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Dinheiro;Masculino;Teresa Tillman
+2026-03-10;1008;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Feminino;Ron Hansen
+2026-03-11;1009;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Pix;Masculino;Robert Anderson
+2026-03-11;1010;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Masculino;Joanna George
+2026-03-11;1011;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Crédito;Masculino;Louise Westbrooks
+2026-03-11;1012;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Feminino;Franchesca Dahlin
+2026-03-11;1013;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Pix;Feminino;William Flores
+2026-03-11;1014;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Tabitha Takaki
+2026-03-12;1015;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Pix;Masculino;Jane Vargas
+2026-03-12;1016;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Crédito;Masculino;Kimberly Nittler
+2026-03-12;1017;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Masculino;Michael Leadbetter
+2026-03-12;1018;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Feminino;Frank Richardson
+2026-03-12;1019;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Masculino;Brian Finley
+2026-03-12;1020;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Débito;Feminino;Donnell Robinson
+2026-03-13;1021;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;Charles Ruic
+2026-03-13;1022;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Feminino;Angela Hernandez
+2026-03-13;1023;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Frances Gillis
+2026-03-13;1024;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Pix;Masculino;Beverly Williams
+2026-03-13;1025;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Crédito;Feminino;Michelle Palmer
+2026-03-14;1026;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;Bob Farmer
+2026-03-14;1027;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Dinheiro;Masculino;Linda Jimenez
+2026-03-14;1028;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Feminino;Howard Swaine
+2026-03-14;1029;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Masculino;Anthony Burke
+2026-03-14;1030;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Débito;Feminino;Gloria Gentery
+2026-03-15;1031;CE;Fortaleza;José Maria;Calça Jeans;99,9;Dinheiro;Masculino;Robert Carter
+2026-03-15;1032;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Débito;Feminino;Ricky Hey
+2026-03-15;1033;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Masculino;Jean Pursley
+2026-03-15;1034;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Masculino;Patricia Smith
+2026-03-15;1035;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Masculino;Lola Woolum
+2026-03-15;1036;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Masculino;Cheryl Baldwin
+2026-03-15;1037;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Dinheiro;Feminino;Paul Klein
+2026-03-15;1038;CE;Fortaleza;José Maria;Camiseta;29,9;Pix;Feminino;Cynthia Johnson
+2026-03-15;1039;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Feminino;Vera Reagan
+2026-03-15;1040;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Feminino;Janae Ornelas
+2026-03-16;1041;CE;Fortaleza;José Maria;Calça Jeans;99,9;Dinheiro;Masculino;Jacqueline Crawford
+2026-03-16;1042;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Masculino;Daniel Marshall
+2026-03-16;1043;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Feminino;Beatriz Williams
+2026-03-16;1044;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Feminino;Daniel Odea
+2026-03-16;1045;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Dinheiro;Feminino;Maria Roberts
+2026-03-16;1046;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Dinheiro;Masculino;Mark Vadenais
+2026-03-16;1047;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Débito;Masculino;Wanda Mclachlan
+2026-03-17;1048;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Pix;Feminino;Gladys Vanzee
+2026-03-17;1049;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Crédito;Feminino;Laurie Damico
+2026-03-17;1050;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Dinheiro;Masculino;William Harris
+2026-03-17;1051;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Débito;Masculino;Nathan Winnett
+2026-03-17;1052;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Cartão de Crédito;Masculino;Eric Soder
+2026-03-17;1053;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Dinheiro;Masculino;Rhoda Cruz
+2026-03-18;1054;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Robert Belcher
+2026-03-18;1055;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Dinheiro;Feminino;Michael Mccarthy
+2026-03-18;1056;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Dinheiro;Feminino;Rachel Duerr
+2026-03-18;1057;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Masculino;Wilda Swift
+2026-03-18;1058;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Feminino;Casey Jenkins
+2026-03-18;1059;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Pix;Masculino;George Barcellos
+2026-03-19;1060;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Dinheiro;Masculino;William Hicks
+2026-03-19;1061;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Feminino;Mike Wood
+2026-03-19;1062;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Pix;Masculino;Martha Price
+2026-03-20;1063;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Feminino;Charles Dias
+2026-03-21;1064;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Feminino;Wai Mitchell
+2026-03-21;1065;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Débito;Masculino;Wayne Smith
+2026-03-21;1066;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Masculino;Kimberly Grustas
+2026-03-21;1067;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Dinheiro;Feminino;Jami Green
+2026-03-21;1068;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Débito;Feminino;Stacy Schaeffer
+2026-03-21;1069;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Dinheiro;Masculino;Louise Weidner
+2026-03-21;1070;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Steven Sheppard
+2026-03-21;1071;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Feminino;Kyle Clay
+2026-03-22;1072;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Donald Robinson
+2026-03-22;1073;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Myrtle Calle
+2026-03-22;1074;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Débito;Feminino;Patricia Jackson
+2026-03-22;1075;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Masculino;Charles Estes
+2026-03-22;1076;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Herbert Jordan
+2026-03-22;1077;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Anita Duran
+2026-03-22;1078;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Pix;Masculino;Linda Gahan
+2026-03-22;1079;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Feminino;Martin Wagner
+2026-03-22;1080;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Pix;Masculino;James Royce
+2026-03-23;1081;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Cartão de Débito;Feminino;Jacob Gundersen
+2026-03-23;1082;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Pix;Feminino;Jasmine Bonner
+2026-03-23;1083;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Masculino;Jason Rosenberg
+2026-03-23;1084;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Mary Long
+2026-03-23;1085;SP;São Paulo;Fernanda Soares;Saia;49,9;Pix;Feminino;Jillian Scherzer
+2026-03-23;1086;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Pix;Feminino;Nancy Campbell
+2026-03-23;1087;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Masculino;Marion Droke
+2026-03-23;1088;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Débito;Feminino;Sean Hinrichs
+2026-03-23;1089;SC;Florianópolis;Léco;Shorts;39,9;Pix;Feminino;Ben Rieger
+2026-03-23;1090;CE;Fortaleza;José Maria;Saia;49,9;Pix;Feminino;Eloy Ferrell
+2026-03-24;1091;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Feminino;Virginia Toupin
+2026-03-24;1092;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Dinheiro;Feminino;Jared Skeen
+2026-03-24;1093;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;Jacquelyn Price
+2026-03-24;1094;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Masculino;Michael Smith
+2026-03-24;1095;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Débito;Masculino;Olga Kealy
+2026-03-24;1096;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Cartão de Débito;Feminino;Robert Riley
+2026-03-24;1097;SC;Florianópolis;Léco;Saia;49,9;Cartão de Débito;Feminino;Shirley Peterson
+2026-03-25;1098;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Feminino;John Redding
+2026-03-25;1099;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Masculino;Frank Samuelson
+2026-03-25;1100;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Débito;Masculino;David Guadalupe
+2026-03-26;1101;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Feminino;David Fife
+2026-03-26;1102;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Masculino;Gaylord Santos
+2026-03-26;1103;CE;Fortaleza;Maria das Graças;Saia;49,9;Dinheiro;Feminino;John Mangrum
+2026-03-26;1104;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Débito;Feminino;Florence Leavitt
+2026-03-26;1105;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;John Howard
+2026-03-26;1106;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Masculino;Garland Bickerstaff
+2026-03-27;1107;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Crédito;Masculino;Derek Thompson
+2026-03-27;1108;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Masculino;Kevin Lawrence
+2026-03-27;1109;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Pix;Feminino;Bridgette Terrill
+2026-03-27;1110;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Sol Gonzalez
+2026-03-27;1111;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Dinheiro;Masculino;Evie Sakoda
+2026-03-27;1112;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Kathryn Davis
+2026-03-27;1113;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Julie Matten
+2026-03-28;1114;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Dinheiro;Feminino;Thomas Chadwell
+2026-03-28;1115;SC;Florianópolis;Léco;Shorts;39,9;Dinheiro;Feminino;Lonnie Gooden
+2026-03-28;1116;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Terri Wills
+2026-03-29;1117;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Crédito;Masculino;Anthony Batts
+2026-03-29;1118;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Bobby Rice
+2026-03-29;1119;CE;Fortaleza;José Maria;Calça Jeans;99,9;Dinheiro;Masculino;Mary Mcgill
+2026-03-29;1120;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;John Wilcox
+2026-03-29;1121;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Melissa Green
+2026-03-29;1122;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Dinheiro;Feminino;Byron Hill
+2026-03-30;1123;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Masculino;Wanda Alexander
+2026-03-30;1124;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Cartão de Crédito;Masculino;Donna Toborg
+2026-03-30;1125;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Feminino;Jess Johns
+2026-03-30;1126;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Pix;Masculino;Richard Williams
+2026-03-30;1127;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Masculino;Christine Hodge
+2026-03-31;1128;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Crédito;Masculino;Kent Adamo
+2026-03-31;1129;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Ola Hayes
+2026-03-31;1130;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Débito;Feminino;Violet Freed
+2026-03-31;1131;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;Gary Appel
+2026-03-31;1132;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;Daniel Philipps
+2026-03-31;1133;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Dinheiro;Masculino;Leo Evans
+2026-04-01;1134;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Judith Beal
+2026-04-01;1135;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Julie Kremen
+2026-04-01;1136;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Feminino;Lisa Mosley
+2026-04-01;1137;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Dinheiro;Masculino;Leslie Tillman
+2026-04-02;1138;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Feminino;Gwendolyn Devore
+2026-04-02;1139;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Crédito;Masculino;Agnes Zamora
+2026-04-02;1140;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Dinheiro;Masculino;Jeremy Boyer
+2026-04-02;1141;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Feminino;Selina Higgins
+2026-04-02;1142;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Michael Grabowski
+2026-04-02;1143;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Andy Stewart
+2026-04-03;1144;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Pix;Feminino;Kathryn Kim
+2026-04-03;1145;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Masculino;Morton Cline
+2026-04-03;1146;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Pix;Feminino;Larry Major
+2026-04-04;1147;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Masculino;Elaina Bernabe
+2026-04-04;1148;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;Carlota Swain
+2026-04-04;1149;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Débito;Masculino;Ernest Wheatley
+2026-04-04;1150;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Feminino;Robert Leone
+2026-04-05;1151;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Feminino;Joyce Bellomy
+2026-04-05;1152;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Dinheiro;Masculino;Randal Robinson
+2026-04-05;1153;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Dinheiro;Masculino;Charles Monson
+2026-04-05;1154;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Dinheiro;Feminino;Phyllis Gonzalez
+2026-04-05;1155;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Pix;Masculino;Mildred Harper
+2026-04-06;1156;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Luz Hann
+2026-04-06;1157;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Masculino;Ruth Burnette
+2026-04-06;1158;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Crédito;Feminino;Aaron Watson
+2026-04-06;1159;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Feminino;Katherine Brown
+2026-04-06;1160;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Dinheiro;Feminino;Brenda Suggs
+2026-04-06;1161;CE;Fortaleza;José Maria;Chapéu;19,9;Cartão de Crédito;Feminino;Michelle Gaskin
+2026-04-06;1162;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Feminino;Michael Weber
+2026-04-07;1163;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Selma Rances
+2026-04-07;1164;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Crédito;Feminino;Antoinette Lastrapes
+2026-04-07;1165;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Feminino;Clifford Cyrus
+2026-04-07;1166;SC;Florianópolis;Léco;Camiseta;29,9;Pix;Masculino;John Mcintyre
+2026-04-07;1167;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Masculino;Randall Fitzpatrick
+2026-04-08;1168;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Dinheiro;Masculino;Donna Pavlik
+2026-04-08;1169;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Débito;Feminino;Allen Demmons
+2026-04-08;1170;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Dinheiro;Masculino;David Stoltz
+2026-04-08;1171;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Dinheiro;Masculino;Michael Pena
+2026-04-08;1172;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Ana Jackson
+2026-04-08;1173;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Masculino;Albert Wallner
+2026-04-09;1174;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Feminino;John Dutra
+2026-04-09;1175;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Crédito;Feminino;Alesia Hinz
+2026-04-09;1176;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Pix;Feminino;Gerald Hofmann
+2026-04-09;1177;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Brian Pollard
+2026-04-09;1178;CE;Fortaleza;José Maria;Vestido;79,9;Pix;Masculino;Jean Aguilar
+2026-04-10;1179;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Crédito;Masculino;Shirley Roberts
+2026-04-10;1180;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Mary Walker
+2026-04-10;1181;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Masculino;Jason Williams
+2026-04-10;1182;SC;Florianópolis;Léco;Vestido;79,9;Pix;Feminino;Laura Woodard
+2026-04-10;1183;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Muriel Pierson
+2026-04-10;1184;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Masculino;Michelle Casares
+2026-04-11;1185;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Masculino;Lilian Coffey
+2026-04-11;1186;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Masculino;David Hutchinson
+2026-04-11;1187;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Dinheiro;Masculino;Gloria Badillo
+2026-04-11;1188;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Feminino;Kathy Stith
+2026-04-12;1189;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Crédito;Feminino;Donald Prok
+2026-04-12;1190;SC;Florianópolis;Léco;Óculos de Sol;59,9;Pix;Feminino;Anthony Willingham
+2026-04-12;1191;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Jeffrey Dennis
+2026-04-12;1192;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Feminino;George Frederick
+2026-04-12;1193;SC;Florianópolis;Léco;Vestido;79,9;Dinheiro;Feminino;Keila Farnam
+2026-04-13;1194;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Pix;Masculino;Kevin Jeffers
+2026-04-13;1195;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Feminino;Walter Williams
+2026-04-13;1196;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Pix;Masculino;Jason Martinez
+2026-04-13;1197;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Dinheiro;Masculino;Marcia Gibson
+2026-04-13;1198;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Débito;Masculino;Brenda Ward
+2026-04-13;1199;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Feminino;Salvador Dragich
+2026-04-13;1200;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Feminino;Teresa Black
+2026-04-13;1201;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Masculino;Betty Mathews
+2026-04-13;1202;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Masculino;Robert Leonard
+2026-04-14;1203;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Sid Watson
+2026-04-14;1204;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Pix;Masculino;Josephine Cooper
+2026-04-14;1205;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Masculino;Darlene Markell
+2026-04-14;1206;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Débito;Masculino;Tim Simmons
+2026-04-14;1207;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Feminino;Jared Randrup
+2026-04-14;1208;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Dinheiro;Masculino;Robert White
+2026-04-15;1209;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Manuel Wiedenheft
+2026-04-15;1210;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Feminino;Doris Wood
+2026-04-15;1211;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Dinheiro;Masculino;Barbara Montgomery
+2026-04-15;1212;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Feminino;Elizabeth Bain
+2026-04-15;1213;SP;São Paulo;Germano Martins;Vestido;79,9;Dinheiro;Masculino;Diane Ritchie
+2026-04-16;1214;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Masculino;Delia Lee
+2026-04-16;1215;SP;São Paulo;Germano Martins;Chapéu;19,9;Pix;Feminino;Emily Ott
+2026-04-16;1216;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Mark Benavides
+2026-04-16;1217;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Masculino;Carlo Rich
+2026-04-16;1218;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Débito;Feminino;Timothy Caldwell
+2026-04-16;1219;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Dinheiro;Masculino;Ellen Vining
+2026-04-16;1220;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Feminino;Daniel Mendosa
+2026-04-17;1221;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Débito;Feminino;Joann Summey
+2026-04-17;1222;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Dinheiro;Feminino;Robert Collazo
+2026-04-17;1223;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Masculino;Kelly Blackmon
+2026-04-17;1224;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Feminino;Edna Harrison
+2026-04-17;1225;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Masculino;Robert Martin
+2026-04-17;1226;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Pix;Masculino;Alex Boyer
+2026-04-18;1227;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Cartão de Crédito;Feminino;John Rooks
+2026-04-18;1228;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;Daisy Mapes
+2026-04-18;1229;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Dinheiro;Feminino;Patricia Lail
+2026-04-18;1230;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Holly Gwaltney
+2026-04-18;1231;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Feminino;Jamie Redenius
+2026-04-18;1232;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Feminino;Minh Holcomb
+2026-04-19;1233;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Feminino;Susan Bourassa
+2026-04-19;1234;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Pix;Masculino;Patty White
+2026-04-19;1235;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Crédito;Masculino;Molly Garcia
+2026-04-20;1236;CE;Fortaleza;José Maria;Saia;49,9;Dinheiro;Masculino;Brett Criswell
+2026-04-20;1237;SC;Florianópolis;Léco;Chapéu;19,9;Dinheiro;Feminino;Peter Smith
+2026-04-20;1238;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Feminino;James Hudec
+2026-04-20;1239;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Cartão de Débito;Masculino;Gonzalo Vilardi
+2026-04-20;1240;SC;Florianópolis;Léco;Saia;49,9;Pix;Feminino;Joseph Blair
+2026-04-21;1241;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Ayanna Swink
+2026-04-21;1242;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Cassie Johnson
+2026-04-21;1243;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Cartão de Crédito;Masculino;Jack Holscher
+2026-04-21;1244;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Dinheiro;Masculino;James Covington
+2026-04-21;1245;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Masculino;Juanita Smith
+2026-04-21;1246;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Kenneth Peek
+2026-04-21;1247;SC;Florianópolis;Léco;Saia;49,9;Cartão de Crédito;Masculino;Michael Sears
+2026-04-22;1248;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Débito;Feminino;Kindra Lawrence
+2026-04-22;1249;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Crédito;Feminino;Daniel Hubbard
+2026-04-22;1250;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Laura Stanbaugh
+2026-04-23;1251;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Betty Martin
+2026-04-23;1252;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Crédito;Feminino;Ebony Mccollum
+2026-04-23;1253;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Masculino;Connie Stanley
+2026-04-23;1254;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Masculino;Arnold Kingsley
+2026-04-23;1255;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Débito;Masculino;Troy Weal
+2026-04-23;1256;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Masculino;Carl Simmons
+2026-04-23;1257;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Catherine Perkins
+2026-04-23;1258;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Barbara Dorsey
+2026-04-24;1259;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Dinheiro;Masculino;Shirley Magallon
+2026-04-24;1260;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;Carol Simpson
+2026-04-24;1261;SC;Florianópolis;Léco;Shorts;39,9;Dinheiro;Masculino;Clarence Myers
+2026-04-24;1262;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Dinheiro;Masculino;Yolonda Chamberlain
+2026-04-25;1263;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Dinheiro;Feminino;Travis Nall
+2026-04-25;1264;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Cartão de Débito;Feminino;Geneva Brueckman
+2026-04-25;1265;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Feminino;Angie Stewarts
+2026-04-25;1266;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Feminino;William Dansby
+2026-04-25;1267;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Pix;Masculino;John Thomas
+2026-04-25;1268;SC;Florianópolis;Léco;Vestido;79,9;Dinheiro;Masculino;Nicole Parmley
+2026-04-26;1269;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Feminino;Jill Smith
+2026-04-26;1270;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Feminino;Stephanie Ice
+2026-04-26;1271;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Feminino;Susan Rolle
+2026-04-26;1272;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Feminino;Terri Torrez
+2026-04-26;1273;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Feminino;Iraida Beaulieu
+2026-04-27;1274;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Dinheiro;Feminino;Edith Bisono
+2026-04-27;1275;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Dinheiro;Masculino;Connie Goodman
+2026-04-27;1276;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Crédito;Feminino;Kathleen Rodocker
+2026-04-27;1277;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Masculino;Tamera Stovall
+2026-04-27;1278;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Michelle Enderle
+2026-04-28;1279;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Marshall Finley
+2026-04-28;1280;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Débito;Masculino;Anita Schmidt
+2026-04-28;1281;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Crédito;Feminino;Brenda Drake
+2026-04-28;1282;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Pix;Feminino;Theresa Vanduyne
+2026-04-28;1283;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Feminino;Janie Combs
+2026-04-28;1284;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Dinheiro;Masculino;Lance Scott
+2026-04-28;1285;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Masculino;Amy Weiland
+2026-04-28;1286;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;Anita Pulley
+2026-04-29;1287;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Masculino;June Abbott
+2026-04-29;1288;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Feminino;Maria Banuelos
+2026-04-29;1289;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;Hank Eldridge
+2026-04-29;1290;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Masculino;Steven Morgon
+2026-04-29;1291;CE;Fortaleza;José Maria;Saia;49,9;Pix;Masculino;Kathy Strong
+2026-04-29;1292;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Teresa Gardener
+2026-04-29;1293;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Dinheiro;Masculino;Beth Timko
+2026-04-29;1294;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Masculino;Susan Strohschein
+2026-04-29;1295;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Masculino;Willie Dayley
+2026-04-29;1296;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Feminino;Phyllis Slade
+2026-04-30;1297;SC;Florianópolis;Léco;Chapéu;19,9;Dinheiro;Feminino;Cesar Webster
+2026-04-30;1298;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Masculino;Wesley Claxton
+2026-04-30;1299;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Dinheiro;Masculino;Efrain Rappold
+2026-04-30;1300;SP;São Paulo;Fernanda Soares;Vestido;79,9;Dinheiro;Masculino;Terry Lieb
+2026-04-30;1301;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Maurice Gaskin
+2026-05-01;1302;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Pix;Feminino;Hans Cato
+2026-05-01;1303;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Masculino;Terri Jackson
+2026-05-01;1304;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Débito;Masculino;Darlene Epps
+2026-05-01;1305;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Pix;Masculino;Daniel Mccray
+2026-05-01;1306;SC;Florianópolis;Léco;Shorts;39,9;Pix;Feminino;Rodney Banks
+2026-05-01;1307;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Sonja Numbers
+2026-05-02;1308;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Feminino;Jon Cote
+2026-05-02;1309;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Lacey Farina
+2026-05-02;1310;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Tamara Morris
+2026-05-02;1311;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Feminino;Doris Shulte
+2026-05-02;1312;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Débito;Masculino;Amelia Rockwell
+2026-05-03;1313;CE;Fortaleza;José Maria;Chapéu;19,9;Dinheiro;Masculino;Raymond Bermudes
+2026-05-03;1314;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Feminino;Juliet Barnette
+2026-05-04;1315;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Cartão de Débito;Feminino;Amy Durk
+2026-05-04;1316;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Feminino;Larry Taylor
+2026-05-04;1317;CE;Fortaleza;José Maria;Chapéu;19,9;Cartão de Crédito;Masculino;Tara Lohman
+2026-05-04;1318;SP;São Paulo;Fernanda Soares;Vestido;79,9;Pix;Masculino;James Wallace
+2026-05-04;1319;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Feminino;Warren Baldwin
+2026-05-04;1320;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Masculino;Lori Fox
+2026-05-05;1321;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Dinheiro;Masculino;Gary Lloyd
+2026-05-05;1322;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Débito;Feminino;Lois Moore
+2026-05-05;1323;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Dinheiro;Feminino;Megan Turman
+2026-05-05;1324;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Pix;Feminino;Cari Crowell
+2026-05-05;1325;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Denisse Ackerman
+2026-05-05;1326;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Feminino;Lisa Traina
+2026-05-05;1327;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Dinheiro;Feminino;Alberto Martinez
+2026-05-06;1328;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Feminino;Barry Asbury
+2026-05-06;1329;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Leola Whelton
+2026-05-06;1330;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Dinheiro;Feminino;Larry Butler
+2026-05-06;1331;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Débito;Masculino;Belinda Hagan
+2026-05-06;1332;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Masculino;Ruth Gaitor
+2026-05-06;1333;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Dinheiro;Feminino;Kristi Spoon
+2026-05-06;1334;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Débito;Feminino;Bernard Bundy
+2026-05-06;1335;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Masculino;Willie Browning
+2026-05-06;1336;CE;Fortaleza;José Maria;Calça Jeans;99,9;Dinheiro;Feminino;Richard Burke
+2026-05-07;1337;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Feminino;Edith Vaughan
+2026-05-07;1338;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Ben Otis
+2026-05-07;1339;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Débito;Feminino;Darrell Johnson
+2026-05-08;1340;SC;Florianópolis;Léco;Vestido;79,9;Dinheiro;Masculino;Anita Hinrichs
+2026-05-08;1341;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Masculino;Mary Boom
+2026-05-08;1342;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Dinheiro;Feminino;Suzanna Gillis
+2026-05-08;1343;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Pix;Feminino;Celeste Sutton
+2026-05-09;1344;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Crédito;Masculino;Melissa Walker
+2026-05-09;1345;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Masculino;Michael Brown
+2026-05-09;1346;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Stephen Kye
+2026-05-09;1347;SP;São Paulo;Germano Martins;Shorts;39,9;Dinheiro;Feminino;Rachel Bennett
+2026-05-09;1348;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Dinheiro;Masculino;Randolph Carrillo
+2026-05-10;1349;CE;Fortaleza;José Maria;Shorts;39,9;Dinheiro;Masculino;Sandra Christiansen
+2026-05-10;1350;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Débito;Masculino;Marcus Bell
+2026-05-10;1351;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Feminino;Teresa Pilbin
+2026-05-10;1352;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Elvira Franks
+2026-05-10;1353;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Débito;Masculino;Raymond Strange
+2026-05-10;1354;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Crédito;Masculino;Mary Carter
+2026-05-11;1355;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Jennifer Terry
+2026-05-11;1356;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Masculino;Veola Mohammed
+2026-05-11;1357;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Pix;Masculino;Margaret Greene
+2026-05-11;1358;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Débito;Feminino;Catharine Hebert
+2026-05-11;1359;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Feminino;Elena Rigney
+2026-05-11;1360;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Pix;Masculino;John Cleveland
+2026-05-11;1361;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Pix;Masculino;Jessica Maloy
+2026-05-11;1362;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Débito;Feminino;Charles Burnette
+2026-05-11;1363;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Masculino;Mary Laderman
+2026-05-12;1364;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Feminino;Patricia Wilson
+2026-05-12;1365;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Pix;Masculino;Amber Becker
+2026-05-12;1366;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Brian Farias
+2026-05-12;1367;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Feminino;David Murray
+2026-05-12;1368;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Crédito;Masculino;Ruby Flowers
+2026-05-12;1369;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Feminino;Jorge Toussaint
+2026-05-13;1370;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Dinheiro;Feminino;Paul Jackson
+2026-05-13;1371;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Kenneth Avalos
+2026-05-13;1372;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Masculino;Joyce Garrett
+2026-05-13;1373;CE;Fortaleza;José Maria;Chapéu;19,9;Cartão de Débito;Masculino;Patricia Allegra
+2026-05-13;1374;SC;Florianópolis;Léco;Saia;49,9;Cartão de Crédito;Feminino;Drew Henderson
+2026-05-13;1375;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Débito;Masculino;David Nelson
+2026-05-13;1376;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Natalie Hunter
+2026-05-13;1377;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Masculino;Jimmy Roberts
+2026-05-13;1378;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Darlene Drewry
+2026-05-13;1379;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Pix;Masculino;Lisa Hoch
+2026-05-13;1380;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Dinheiro;Masculino;Ruby Palmer
+2026-05-14;1381;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Cartão de Débito;Masculino;Angelo Dobson
+2026-05-14;1382;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Débito;Masculino;Mark Cohrs
+2026-05-14;1383;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Crédito;Masculino;Daniel Hawkins
+2026-05-15;1384;SC;Florianópolis;Léco;Vestido;79,9;Dinheiro;Feminino;Diana Jones
+2026-05-15;1385;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Shellie Harrison
+2026-05-15;1386;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Katherine White
+2026-05-15;1387;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Masculino;Javier Britt
+2026-05-15;1388;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Dinheiro;Masculino;Michele Copper
+2026-05-15;1389;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Pix;Feminino;Judy Perez
+2026-05-15;1390;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Pix;Feminino;Jason Fairrow
+2026-05-15;1391;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Crédito;Feminino;Pamela Gunter
+2026-05-15;1392;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Masculino;Alphonso Pollard
+2026-05-15;1393;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Marie Chamberlin
+2026-05-16;1394;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Feminino;Troy Allen
+2026-05-16;1395;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Glenn Davis
+2026-05-16;1396;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Pix;Feminino;Molly Blake
+2026-05-16;1397;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Masculino;Joseph Phillips
+2026-05-17;1398;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Feminino;Henry Savage
+2026-05-17;1399;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Shirley Gerard
+2026-05-17;1400;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Rudy Gill
+2026-05-17;1401;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Laura Harner
+2026-05-17;1402;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Masculino;Mary Hill
+2026-05-18;1403;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Dinheiro;Masculino;Ann Honeycutt
+2026-05-18;1404;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Damian Gonnella
+2026-05-18;1405;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Feminino;Jesus Jones
+2026-05-19;1406;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Débito;Feminino;Wayne Davis
+2026-05-19;1407;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Florence Alvarez
+2026-05-19;1408;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Crédito;Feminino;Lance Aichele
+2026-05-19;1409;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Pix;Feminino;Minnie Woods
+2026-05-19;1410;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Masculino;Krishna Hicks
+2026-05-19;1411;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Feminino;Stephanie Cross
+2026-05-20;1412;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Mark Shelton
+2026-05-20;1413;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Débito;Feminino;Nancy Johnson
+2026-05-20;1414;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Feminino;Bradley Ramirez
+2026-05-20;1415;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Dinheiro;Masculino;Yolanda Herr
+2026-05-21;1416;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Dinheiro;Masculino;Jeremy Pettus
+2026-05-21;1417;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Feminino;Barbara Terry
+2026-05-21;1418;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Florence Jeffers
+2026-05-21;1419;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Crédito;Masculino;Gilbert Tapia
+2026-05-21;1420;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Crédito;Masculino;Tomasa Etheredge
+2026-05-21;1421;SP;São Paulo;Germano Martins;Vestido;79,9;Dinheiro;Masculino;James Brown
+2026-05-21;1422;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Feminino;Dorothy Stanley
+2026-05-22;1423;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Crédito;Masculino;Elaine Thornton
+2026-05-22;1424;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Crédito;Masculino;Lorraine Purington
+2026-05-22;1425;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Dinheiro;Feminino;Michael Kelly
+2026-05-23;1426;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Masculino;James Mcdonald
+2026-05-23;1427;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Pix;Feminino;Viola Rios
+2026-05-23;1428;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Tiffany Parker
+2026-05-23;1429;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Mary Duhl
+2026-05-24;1430;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Amy Mcguire
+2026-05-24;1431;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Débito;Masculino;Ann Knight
+2026-05-24;1432;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Pix;Masculino;Angelina Madson
+2026-05-24;1433;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Mary Rodas
+2026-05-24;1434;CE;Fortaleza;José Maria;Shorts;39,9;Dinheiro;Feminino;Jason Zakrzewski
+2026-05-24;1435;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Pix;Feminino;Joan Kim
+2026-05-24;1436;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Cartão de Crédito;Feminino;Tommy Varner
+2026-05-24;1437;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Feminino;Thelma Whitesel
+2026-05-25;1438;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Julie Olivera
+2026-05-25;1439;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Dinheiro;Feminino;David Young
+2026-05-25;1440;SC;Florianópolis;Léco;Óculos de Sol;59,9;Cartão de Débito;Masculino;Susan Partain
+2026-05-25;1441;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Sara Salinas
+2026-05-25;1442;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Crédito;Masculino;Jame Hewes
+2026-05-25;1443;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Pix;Feminino;Christopher Nicholson
+2026-05-26;1444;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Ann Johnson
+2026-05-26;1445;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Michael Walker
+2026-05-26;1446;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Dinheiro;Masculino;Lori Prince
+2026-05-26;1447;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Edith Quinones
+2026-05-27;1448;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Masculino;Heather Dupree
+2026-05-27;1449;CE;Fortaleza;Maria das Graças;Vestido;79,9;Pix;Feminino;Robert Harvey
+2026-05-27;1450;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Dinheiro;Feminino;Daniel Sanos
+2026-05-27;1451;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Feminino;Linda Taylor
+2026-05-27;1452;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Débito;Masculino;Jeremy Schoolcraft
+2026-05-27;1453;SP;São Paulo;Germano Martins;Shorts;39,9;Pix;Feminino;Shelia Frasier
+2026-05-27;1454;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Débito;Feminino;James Keys
+2026-05-27;1455;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;Kyle Ramberg
+2026-05-28;1456;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;Shawn Darnley
+2026-05-28;1457;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Pix;Feminino;Lucas Zubia
+2026-05-28;1458;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Jennifer Sprague
+2026-05-28;1459;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Jeffery Feazel
+2026-05-28;1460;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;Erica Kridler
+2026-05-29;1461;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Masculino;Britney Webster
+2026-05-29;1462;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Cartão de Débito;Masculino;Norma Route
+2026-05-29;1463;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Pix;Feminino;Lee Merlino
+2026-05-29;1464;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Feminino;Dora King
+2026-05-29;1465;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Cartão de Débito;Masculino;Frank Burton
+2026-05-29;1466;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Masculino;Gloria Spencer
+2026-05-29;1467;CE;Fortaleza;Maria das Graças;Vestido;79,9;Pix;Masculino;Bradford Hall
+2026-05-29;1468;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Pix;Feminino;Cynthia Miles
+2026-05-29;1469;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Crédito;Feminino;Susan Mitchell
+2026-05-30;1470;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Dinheiro;Feminino;Judith Adams
+2026-05-30;1471;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Débito;Feminino;John Hernandez
+2026-05-30;1472;SC;Florianópolis;Léco;Saia;49,9;Cartão de Crédito;Feminino;Claudia Mcdonald
+2026-05-30;1473;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Pix;Feminino;Lydia Vaughn
+2026-05-30;1474;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Julie Mitchell
+2026-05-30;1475;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Masculino;Ralph Sowers
+2026-05-30;1476;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Masculino;Dan Davenport
+2026-05-31;1477;CE;Fortaleza;José Maria;Calça Jeans;99,9;Pix;Masculino;Joseph Barrientos
+2026-05-31;1478;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Feminino;Kathy Wyckoff
+2026-05-31;1479;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Sharon Garrett
+2026-05-31;1480;SC;Florianópolis;Léco;Vestido;79,9;Cartão de Crédito;Masculino;Elisa Mccalpane
+2026-05-31;1481;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Cartão de Crédito;Masculino;James Bender
+2026-06-01;1482;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Dinheiro;Feminino;Adam Pierce
+2026-06-01;1483;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Débito;Masculino;Eric Mears
+2026-06-01;1484;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Feminino;Richard Stanger
+2026-06-01;1485;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Pix;Feminino;Tom Jones
+2026-06-01;1486;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Pix;Feminino;Ronald Powell
+2026-06-01;1487;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Cartão de Crédito;Feminino;Michael Mondino
+2026-06-01;1488;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Feminino;Edna Eller
+2026-06-01;1489;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Crédito;Feminino;Steve Caruso
+2026-06-01;1490;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Pix;Masculino;Robert Newton
+2026-06-01;1491;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Crédito;Masculino;Natisha Tate
+2026-06-02;1492;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Masculino;Jennifer Coles
+2026-06-02;1493;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Pix;Feminino;Charles Dannis
+2026-06-02;1494;SC;Florianópolis;Léco;Saia;49,9;Dinheiro;Feminino;Phyliss Ledesma
+2026-06-02;1495;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Feminino;Dorothy Craig
+2026-06-03;1496;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Masculino;Eric Moses
+2026-06-03;1497;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Débito;Feminino;Gwen Mccoy
+2026-06-03;1498;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Débito;Masculino;Francisco Paulk
+2026-06-03;1499;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Feminino;Dianna Wayland
+2026-06-03;1500;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Dinheiro;Masculino;Aaron Swee
+2026-06-04;1501;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Dinheiro;Masculino;Jesus Wentworth
+2026-06-04;1502;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Feminino;Arlene Anderson
+2026-06-04;1503;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Anthony Neal
+2026-06-05;1504;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Dinheiro;Feminino;Archie Welch
+2026-06-05;1505;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Masculino;Magdalena Reaves
+2026-06-05;1506;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Dinheiro;Feminino;Aaron Wentworth
+2026-06-06;1507;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;David Washington
+2026-06-06;1508;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Feminino;Louis Bucklew
+2026-06-06;1509;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Crédito;Feminino;John Johnson
+2026-06-06;1510;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Débito;Masculino;Milton Reese
+2026-06-07;1511;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Dinheiro;Masculino;Patricia Read
+2026-06-07;1512;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Masculino;Teresa Garber
+2026-06-08;1513;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Crédito;Feminino;Michael Mclean
+2026-06-08;1514;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Feminino;Chuck Nguyen
+2026-06-08;1515;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Pix;Feminino;Susan Jones
+2026-06-08;1516;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Feminino;Robin Coddington
+2026-06-08;1517;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Dinheiro;Feminino;Gary Micklos
+2026-06-08;1518;CE;Fortaleza;José Maria;Chapéu;19,9;Cartão de Crédito;Feminino;Richard Najera
+2026-06-09;1519;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;George Johnson
+2026-06-09;1520;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Débito;Masculino;Nancy Illuzzi
+2026-06-09;1521;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Pix;Feminino;Joan Sadler
+2026-06-09;1522;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Pix;Masculino;Rebecca Wesolowski
+2026-06-09;1523;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Débito;Masculino;Rhea Brand
+2026-06-09;1524;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Débito;Feminino;Kathleen Wilson
+2026-06-10;1525;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Débito;Feminino;Forrest Clarke
+2026-06-10;1526;SC;Florianópolis;Léco;Chapéu;19,9;Pix;Masculino;Frederick Thiel
+2026-06-10;1527;SC;Florianópolis;Léco;Camiseta;29,9;Pix;Masculino;Ryan Kelley
+2026-06-10;1528;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Feminino;Joyce Pless
+2026-06-12;1529;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Feminino;Lisa Garcia
+2026-06-12;1530;SC;Florianópolis;Léco;Óculos de Sol;59,9;Cartão de Débito;Masculino;Clyde Fowler
+2026-06-12;1531;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Kenneth Salinas
+2026-06-12;1532;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Dinheiro;Feminino;Paula Cox
+2026-06-12;1533;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Feminino;James Ambres
+2026-06-12;1534;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Feminino;Joan Patton
+2026-06-12;1535;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Pix;Masculino;Allen Jefferys
+2026-06-12;1536;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Masculino;Andrew Bower
+2026-06-13;1537;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Crédito;Feminino;Bonnie Morse
+2026-06-13;1538;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Dinheiro;Feminino;Michael Mccrory
+2026-06-13;1539;SP;São Paulo;Fernanda Soares;Shorts;39,9;Dinheiro;Masculino;Wilma Clark
+2026-06-13;1540;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Dinheiro;Masculino;Roy Cron
+2026-06-13;1541;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Sue Quan
+2026-06-13;1542;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Thomas Bradt
+2026-06-13;1543;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Dinheiro;Masculino;Jan Nerad
+2026-06-13;1544;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Feminino;Manuela Frisbee
+2026-06-14;1545;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Feminino;Sue Ledin
+2026-06-14;1546;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Masculino;Karl Pennisi
+2026-06-14;1547;SC;Florianópolis;Léco;Chapéu;19,9;Pix;Masculino;Chris Jardine
+2026-06-14;1548;SP;São Paulo;Germano Martins;Chapéu;19,9;Cartão de Crédito;Masculino;Amber Floyd
+2026-06-15;1549;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Cartão de Crédito;Masculino;Marylee Cogliano
+2026-06-15;1550;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Masculino;Lucille Altmiller
+2026-06-15;1551;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Crédito;Feminino;Donna Williams
+2026-06-15;1552;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Dinheiro;Masculino;Yasmin Morris
+2026-06-15;1553;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Dinheiro;Masculino;Joan Hardman
+2026-06-16;1554;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Feminino;Charisse Smock
+2026-06-16;1555;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Feminino;Janet Lewis
+2026-06-16;1556;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Pix;Masculino;Denise Brown
+2026-06-16;1557;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Débito;Feminino;Peggy Lamberth
+2026-06-16;1558;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;James Hobbs
+2026-06-16;1559;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Dinheiro;Feminino;Jo Boyette
+2026-06-16;1560;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Masculino;Audrey Merrill
+2026-06-16;1561;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Masculino;James Wattles
+2026-06-16;1562;CE;Fortaleza;José Maria;Saia;49,9;Pix;Feminino;Kenneth Lacey
+2026-06-16;1563;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Pix;Masculino;Stephanie Johnson
+2026-06-16;1564;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Stanley Miller
+2026-06-16;1565;SP;São Paulo;Germano Martins;Saia;49,9;Dinheiro;Masculino;James Burns
+2026-06-16;1566;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Ray Mcadams
+2026-06-17;1567;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Débito;Masculino;Gino Hagedorn
+2026-06-17;1568;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Masculino;Matthew Lamb
+2026-06-17;1569;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Feminino;Annette Bowen
+2026-06-17;1570;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Loretta Dominick
+2026-06-17;1571;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Wiley Adair
+2026-06-18;1572;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Monica Woods
+2026-06-18;1573;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Dinheiro;Feminino;Jean Alarcon
+2026-06-18;1574;CE;Fortaleza;José Maria;Chapéu;19,9;Pix;Feminino;Paul Collins
+2026-06-18;1575;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Dinheiro;Masculino;Patsy Cormier
+2026-06-18;1576;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Pix;Masculino;Troy Whalen
+2026-06-18;1577;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Masculino;Dianne Fogg
+2026-06-18;1578;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Cartão de Débito;Masculino;Anna Mansi
+2026-06-18;1579;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Dinheiro;Feminino;Darrell Butner
+2026-06-19;1580;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Dinheiro;Feminino;Nancy French
+2026-06-19;1581;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Dinheiro;Masculino;Edith Oxendine
+2026-06-19;1582;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Feminino;Sanford Lamp
+2026-06-19;1583;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Crédito;Masculino;James Howard
+2026-06-20;1584;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Crédito;Masculino;William Guttman
+2026-06-20;1585;CE;Fortaleza;Maria das Graças;Saia;49,9;Pix;Masculino;Walter Mundy
+2026-06-20;1586;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Feminino;Howard Riley
+2026-06-20;1587;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Dinheiro;Feminino;Edward West
+2026-06-21;1588;SP;São Paulo;Germano Martins;Saia;49,9;Pix;Masculino;Jonathan Piper
+2026-06-21;1589;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Pix;Feminino;Pedro Acker
+2026-06-21;1590;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Débito;Feminino;Courtney Hinkel
+2026-06-21;1591;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Masculino;Mitch Johnson
+2026-06-21;1592;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Masculino;Irene Jenkins
+2026-06-22;1593;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Dinheiro;Feminino;Janet Hamons
+2026-06-22;1594;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Pix;Feminino;Rebecca Jones
+2026-06-22;1595;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Pix;Masculino;Leta Hui
+2026-06-22;1596;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Anthony Fitzgerald
+2026-06-22;1597;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Pix;Masculino;Karen Hylton
+2026-06-22;1598;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Masculino;Ray Boggs
+2026-06-23;1599;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Dinheiro;Feminino;Virginia Allen
+2026-06-23;1600;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Feminino;Robert Conner
+2026-06-23;1601;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Feminino;Jennifer Rose
+2026-06-23;1602;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Crédito;Masculino;Joseph Meza
+2026-06-23;1603;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Crédito;Masculino;Theresa Sammons
+2026-06-24;1604;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Dinheiro;Masculino;Scott Simons
+2026-06-24;1605;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Cartão de Débito;Feminino;Charline Candland
+2026-06-24;1606;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Dinheiro;Masculino;Joel Moore
+2026-06-24;1607;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Feminino;Kenneth Winston
+2026-06-25;1608;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Feminino;Michael Lea
+2026-06-25;1609;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Christopher Black
+2026-06-25;1610;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Cartão de Débito;Feminino;Manuel Mayfield
+2026-06-25;1611;CE;Fortaleza;Maria das Graças;Saia;49,9;Cartão de Crédito;Feminino;Robert Peterson
+2026-06-25;1612;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Débito;Masculino;Tammy Clark
+2026-06-25;1613;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Masculino;Nancy Ware
+2026-06-25;1614;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Feminino;Calvin Colucci
+2026-06-25;1615;SC;Florianópolis;Léco;Óculos de Sol;59,9;Dinheiro;Masculino;Michelle Moeller
+2026-06-26;1616;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Dinheiro;Feminino;Eli Scott
+2026-06-26;1617;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Crédito;Masculino;Curtis Ribeiro
+2026-06-26;1618;SC;Florianópolis;Léco;Chapéu;19,9;Cartão de Débito;Feminino;John Hill
+2026-06-26;1619;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Masculino;Rosemarie Perkins
+2026-06-26;1620;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Cartão de Débito;Feminino;Chad Edwards
+2026-06-26;1621;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Débito;Masculino;Rhonda Hottinger
+2026-06-26;1622;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Débito;Masculino;Kathryn Castor
+2026-06-26;1623;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Pix;Feminino;Matthew Rodiguez
+2026-06-26;1624;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Dinheiro;Feminino;Ben Corso
+2026-06-27;1625;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Pix;Masculino;Tom Caldwell
+2026-06-27;1626;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Débito;Masculino;Irene Jarrett
+2026-06-27;1627;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Cartão de Crédito;Masculino;Jeff Ingersoll
+2026-06-27;1628;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Débito;Masculino;Anita Hill
+2026-06-27;1629;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Christine Villarreal
+2026-06-28;1630;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Masculino;Mary Knuckles
+2026-06-28;1631;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Masculino;Liz Arellano
+2026-06-28;1632;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Cartão de Débito;Feminino;Magdalena Bechtold
+2026-06-28;1633;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Linda Cowan
+2026-06-29;1634;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Masculino;Carmen Meyers
+2026-06-29;1635;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Masculino;Robert Faucher
+2026-06-29;1636;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Elfriede Stroud
+2026-06-30;1637;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Masculino;Nina Purser
+2026-06-30;1638;RJ;Rio de Janeiro;Gabriel Flash;Camiseta;29,9;Cartão de Débito;Feminino;Eric Edmonds
+2026-06-30;1639;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Dinheiro;Masculino;Eugene Hawkins
+2026-06-30;1640;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Débito;Feminino;Nina Dungee
+2026-06-30;1641;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Pix;Masculino;William Kirby
+2026-06-30;1642;SP;São Paulo;Germano Martins;Chapéu;19,9;Pix;Feminino;Jeanine Schumacher
+2026-06-30;1643;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Feminino;Alberto Sykes
+2026-06-30;1644;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Dinheiro;Masculino;Autumn Chelton
+2026-06-30;1645;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Pix;Feminino;Ronald Worrell
+2026-06-30;1646;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;William Bustamante
+2026-06-30;1647;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Cartão de Débito;Masculino;Michael Crosby
+2026-06-30;1648;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Pix;Masculino;Heidi Bolton
+2026-07-01;1649;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Manuel Finch
+2026-07-01;1650;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Cartão de Crédito;Feminino;William Langston
+2026-07-01;1651;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Constance Villanova
+2026-07-01;1652;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Débito;Masculino;Lee Obrien
+2026-07-01;1653;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Masculino;Paul Henderson
+2026-07-01;1654;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Pix;Masculino;Jim Miller
+2026-07-02;1655;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Masculino;Rebecca Dews
+2026-07-02;1656;CE;Fortaleza;Maria das Graças;Saia;49,9;Dinheiro;Masculino;Richard Wagner
+2026-07-02;1657;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Débito;Feminino;Julia Merrifield
+2026-07-02;1658;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Cherri Hall
+2026-07-02;1659;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Masculino;Mary Loose
+2026-07-02;1660;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Masculino;Linda Dennie
+2026-07-02;1661;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Pix;Masculino;Duane Robertson
+2026-07-02;1662;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Dinheiro;Masculino;Carl Greene
+2026-07-02;1663;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Feminino;Janice Mccullough
+2026-07-02;1664;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;John Schwab
+2026-07-03;1665;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Marty Bussell
+2026-07-03;1666;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Billy Mendelson
+2026-07-03;1667;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Débito;Masculino;John Jones
+2026-07-03;1668;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Feminino;Jeff Cockrell
+2026-07-03;1669;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Cartão de Débito;Masculino;Susan Aniello
+2026-07-03;1670;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Débito;Feminino;Arthur Ruda
+2026-07-03;1671;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Dinheiro;Feminino;Tina Zody
+2026-07-04;1672;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Débito;Feminino;James Rightmire
+2026-07-04;1673;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;Sheldon Gillick
+2026-07-04;1674;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Peter Jacobson
+2026-07-04;1675;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Pix;Feminino;Maria Gottfried
+2026-07-04;1676;SC;Florianópolis;Léco;Blusa de Frio;89,9;Dinheiro;Feminino;William Tait
+2026-07-04;1677;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Débito;Masculino;Nancy Ewing
+2026-07-04;1678;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Christopher Segovia
+2026-07-04;1679;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Dinheiro;Feminino;Mercedes Williams
+2026-07-04;1680;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Masculino;Ann Lykes
+2026-07-05;1681;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Pix;Feminino;Bernard Gilliam
+2026-07-05;1682;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Delphia Bain
+2026-07-05;1683;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Dinheiro;Masculino;John Provencal
+2026-07-05;1684;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Feminino;Mary Graham
+2026-07-06;1685;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Pix;Feminino;Jacob Wahlberg
+2026-07-06;1686;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Dinheiro;Masculino;Constance Holmes
+2026-07-06;1687;SC;Florianópolis;Léco;Camiseta;29,9;Cartão de Débito;Feminino;Katherine Oconner
+2026-07-06;1688;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Cartão de Débito;Feminino;Corinna Vance
+2026-07-06;1689;SC;Florianópolis;Magrinho Mrl;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Jennie Warren
+2026-07-06;1690;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Feminino;Clifton Wills
+2026-07-06;1691;CE;Fortaleza;José Maria;Saia;49,9;Pix;Feminino;Helen Gudino
+2026-07-06;1692;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Cartão de Crédito;Masculino;Douglas Clark
+2026-07-06;1693;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Débito;Masculino;Lauren Sinstack
+2026-07-07;1694;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Feminino;Terry Larson
+2026-07-07;1695;SP;São Paulo;Fernanda Soares;Saia;49,9;Pix;Masculino;Michael Fletcher
+2026-07-07;1696;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Dinheiro;Feminino;Christina Beatty
+2026-07-07;1697;CE;Fortaleza;José Maria;Shorts;39,9;Dinheiro;Masculino;Booker Kanady
+2026-07-07;1698;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Ida Cade
+2026-07-07;1699;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Débito;Feminino;Joseph Holmes
+2026-07-07;1700;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Crédito;Feminino;Heather Perrodin
+2026-07-07;1701;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Masculino;Boyd Grossman
+2026-07-08;1702;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Cartão de Crédito;Feminino;John Copeland
+2026-07-08;1703;SP;São Paulo;Germano Martins;Vestido;79,9;Pix;Masculino;Steve Esquivel
+2026-07-09;1704;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Masculino;Jonathan Rodgers
+2026-07-09;1705;SP;São Paulo;Germano Martins;Camiseta;29,9;Cartão de Débito;Masculino;Melissa Rowland
+2026-07-10;1706;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Devin Burke
+2026-07-10;1707;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Amanda Alex
+2026-07-10;1708;SC;Florianópolis;Léco;Saia;49,9;Pix;Feminino;Joseph Lujan
+2026-07-11;1709;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Dinheiro;Feminino;Gail Mora
+2026-07-11;1710;MG;Belo Horizonte;Bim da Ambulância;Camiseta;29,9;Pix;Feminino;Amy Madrigal
+2026-07-11;1711;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Masculino;Tamara Paige
+2026-07-12;1712;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Dinheiro;Masculino;Rodney Manning
+2026-07-12;1713;CE;Fortaleza;José Maria;Camiseta;29,9;Pix;Feminino;Shirley Bonaccorsi
+2026-07-12;1714;MG;Belo Horizonte;Juliana Ferreira;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Glenn Powers
+2026-07-12;1715;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Kimberly Banvelos
+2026-07-13;1716;SP;São Paulo;Fernanda Soares;Saia;49,9;Dinheiro;Feminino;Joseph Haynes
+2026-07-13;1717;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Christina Williams
+2026-07-13;1718;SC;Florianópolis;Magrinho Mrl;Chapéu;19,9;Cartão de Débito;Masculino;Matthew Guzman
+2026-07-13;1719;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Débito;Masculino;Dominic Paulsen
+2026-07-13;1720;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Feminino;Graciela Millican
+2026-07-14;1721;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Masculino;Vincent Hunt
+2026-07-14;1722;SC;Florianópolis;Léco;Óculos de Sol;59,9;Pix;Feminino;Andres Gish
+2026-07-14;1723;SP;São Paulo;Germano Martins;Chapéu;19,9;Pix;Masculino;Hunter Edwards
+2026-07-14;1724;RJ;Rio de Janeiro;Gabriel Flash;Blusa de Frio;89,9;Dinheiro;Masculino;Hazel Dietz
+2026-07-14;1725;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Dinheiro;Feminino;Bertha Smith
+2026-07-14;1726;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Crédito;Masculino;Jeffrey Angell
+2026-07-14;1727;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Cartão de Crédito;Feminino;Linda Minichiello
+2026-07-15;1728;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Pix;Feminino;Isidra Lewis
+2026-07-15;1729;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Masculino;Elizabeth Shipley
+2026-07-15;1730;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Eddie Russell
+2026-07-15;1731;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Shawn Toscani
+2026-07-15;1732;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Dinheiro;Masculino;Mary Blanton
+2026-07-15;1733;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Benjamin Lozoya
+2026-07-16;1734;SP;São Paulo;Fernanda Soares;Saia;49,9;Cartão de Crédito;Masculino;Deborah Gregson
+2026-07-16;1735;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;Rosetta Holliman
+2026-07-16;1736;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Feminino;Ben Pelletier
+2026-07-16;1737;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Thomas Briggs
+2026-07-17;1738;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Feminino;Audra Harten
+2026-07-17;1739;SP;São Paulo;Germano Martins;Calça Jeans;99,9;Cartão de Crédito;Feminino;David Martin
+2026-07-17;1740;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Feminino;Carlos Schoeppner
+2026-07-17;1741;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Crédito;Masculino;Susan Metcalf
+2026-07-17;1742;SC;Florianópolis;Léco;Óculos de Sol;59,9;Dinheiro;Feminino;Corey Martini
+2026-07-18;1743;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Dinheiro;Masculino;Michael Reeder
+2026-07-18;1744;SP;São Paulo;Fernanda Soares;Shorts;39,9;Cartão de Crédito;Feminino;Ronald Lanius
+2026-07-18;1745;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Dinheiro;Feminino;Jessica Jones
+2026-07-18;1746;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Pix;Feminino;Elizabeth Babineaux
+2026-07-18;1747;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Débito;Feminino;Marie Harrison
+2026-07-18;1748;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Cartão de Débito;Masculino;Julie Millwee
+2026-07-18;1749;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Feminino;James Portis
+2026-07-18;1750;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Dinheiro;Feminino;Gladys Wilcoxon
+2026-07-18;1751;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Masculino;Frances Michael
+2026-07-19;1752;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Cartão de Crédito;Masculino;Francisco Voss
+2026-07-19;1753;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Juan Luna
+2026-07-19;1754;SC;Florianópolis;Léco;Calça Jeans;99,9;Pix;Masculino;James Outen
+2026-07-19;1755;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Masculino;James Johnson
+2026-07-19;1756;MG;Belo Horizonte;Bim da Ambulância;Óculos de Sol;59,9;Pix;Masculino;Jennifer Smith
+2026-07-19;1757;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Pix;Masculino;Barbara Hernandez
+2026-07-19;1758;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Bill Hitchcock
+2026-07-19;1759;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Masculino;Constance Osborne
+2026-07-19;1760;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Pix;Feminino;Michelle Saenz
+2026-07-19;1761;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Débito;Feminino;Marni Brunson
+2026-07-19;1762;RJ;Rio de Janeiro;Jaqueline Carneiro;Chapéu;19,9;Pix;Masculino;Nicole Perez
+2026-07-20;1763;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Edith Mcghee
+2026-07-20;1764;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Dinheiro;Masculino;Terry Chapman
+2026-07-20;1765;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Pix;Masculino;Dennis Martin
+2026-07-20;1766;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Crédito;Masculino;Domingo Miller
+2026-07-20;1767;SC;Florianópolis;Léco;Blusa de Frio;89,9;Cartão de Débito;Feminino;Darlene Valenti
+2026-07-20;1768;RJ;Rio de Janeiro;Jaqueline Carneiro;Calça Jeans;99,9;Pix;Feminino;Sean Chatman
+2026-07-21;1769;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Dinheiro;Masculino;Nicky Six
+2026-07-21;1770;SP;São Paulo;Germano Martins;Camiseta;29,9;Pix;Feminino;Sarah Hayes
+2026-07-21;1771;SP;São Paulo;Germano Martins;Chapéu;19,9;Dinheiro;Feminino;Sharon Savini
+2026-07-21;1772;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Pix;Feminino;Toni Bowen
+2026-07-21;1773;MG;Belo Horizonte;Bim da Ambulância;Saia;49,9;Pix;Masculino;Johnny Harris
+2026-07-21;1774;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Cartão de Débito;Feminino;Audrey Zayas
+2026-07-22;1775;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Pix;Masculino;Antonia Kraus
+2026-07-22;1776;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Crédito;Feminino;Derek Lacey
+2026-07-22;1777;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Débito;Feminino;Wilbur Hannon
+2026-07-22;1778;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Linda Skowronek
+2026-07-22;1779;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Virginia Goad
+2026-07-22;1780;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Feminino;Jeffery Mcginnis
+2026-07-22;1781;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Pix;Masculino;Richard Conyer
+2026-07-22;1782;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Cartão de Crédito;Masculino;Michael Blevins
+2026-07-22;1783;SP;São Paulo;Fernanda Soares;Vestido;79,9;Dinheiro;Feminino;Phyllis Maurin
+2026-07-23;1784;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Dinheiro;Feminino;John Sabb
+2026-07-23;1785;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Feminino;Gloria Grennan
+2026-07-23;1786;CE;Fortaleza;Maria das Graças;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Jessica Zach
+2026-07-23;1787;SC;Florianópolis;Léco;Saia;49,9;Pix;Masculino;Rebecca Mcintosh
+2026-07-23;1788;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Dinheiro;Masculino;James Herman
+2026-07-23;1789;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Masculino;Lillie Mullis
+2026-07-23;1790;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;George Weathers
+2026-07-23;1791;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Petra Herr
+2026-07-23;1792;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Pix;Masculino;Pansy Herron
+2026-07-24;1793;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Pix;Masculino;Jeanette Jordan
+2026-07-24;1794;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Kevin Edmond
+2026-07-24;1795;SP;São Paulo;Fernanda Soares;Calça Jeans;99,9;Pix;Masculino;Elaine Smith
+2026-07-24;1796;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Dinheiro;Masculino;Calvin Perez
+2026-07-25;1797;RJ;Rio de Janeiro;Gabriel Flash;Calça Jeans;99,9;Pix;Feminino;Sean Crandall
+2026-07-25;1798;SC;Florianópolis;Magrinho Mrl;Saia;49,9;Cartão de Crédito;Feminino;Marjorie Knowles
+2026-07-25;1799;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Feminino;George Foster
+2026-07-25;1800;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Ida Handley
+2026-07-26;1801;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Masculino;Danny Wise
+2026-07-26;1802;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Feminino;Eleanor Buker
+2026-07-26;1803;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Pix;Feminino;Manuel Barron
+2026-07-26;1804;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Ignacio Martinez
+2026-07-26;1805;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Dinheiro;Masculino;Carlos Bernal
+2026-07-26;1806;CE;Fortaleza;Maria das Graças;Vestido;79,9;Pix;Masculino;Brenda Nelson
+2026-07-26;1807;RJ;Rio de Janeiro;Jaqueline Carneiro;Shorts;39,9;Cartão de Débito;Feminino;Eric Sumpter
+2026-07-27;1808;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Masculino;Ronda Noonan
+2026-07-27;1809;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Débito;Feminino;Cynthia Hellinger
+2026-07-28;1810;SP;São Paulo;Germano Martins;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Shanta Polanski
+2026-07-28;1811;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Linda Benoit
+2026-07-28;1812;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Cartão de Débito;Feminino;Leo Smith
+2026-07-28;1813;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Dinheiro;Masculino;Carol Olson
+2026-07-28;1814;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Robin Carter
+2026-07-29;1815;SC;Florianópolis;Léco;Óculos de Sol;59,9;Pix;Feminino;Jessica Shih
+2026-07-29;1816;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Feminino;Ashley Dalton
+2026-07-29;1817;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Crédito;Masculino;Elizabeth Cleary
+2026-07-29;1818;SP;São Paulo;Fernanda Soares;Chapéu;19,9;Dinheiro;Feminino;Jennifer Bailey
+2026-07-29;1819;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Dinheiro;Feminino;Bertha Honaker
+2026-07-29;1820;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Feminino;Melvin Brown
+2026-07-29;1821;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Robert Paul
+2026-07-30;1822;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Débito;Feminino;Charles Mcallister
+2026-07-30;1823;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Charles Watson
+2026-07-30;1824;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Tonda Penrose
+2026-07-30;1825;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Cartão de Crédito;Masculino;Nina Macias
+2026-07-30;1826;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Feminino;Kenneth Bishop
+2026-07-31;1827;CE;Fortaleza;Maria das Graças;Chapéu;19,9;Pix;Feminino;Karin Kalama
+2026-07-31;1828;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Masculino;Wayne Weber
+2026-07-31;1829;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Masculino;Ryan Pitre
+2026-07-31;1830;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;Linda Healy
+2026-08-01;1831;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Pix;Masculino;Willie Reyes
+2026-08-01;1832;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Dinheiro;Feminino;Pauline Cornell
+2026-08-01;1833;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Pix;Feminino;Stella Williams
+2026-08-01;1834;SC;Florianópolis;Léco;Calça Jeans;99,9;Dinheiro;Feminino;Carole Few
+2026-08-01;1835;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Cartão de Crédito;Feminino;Heather Wiggins
+2026-08-01;1836;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Masculino;Larry Martinez
+2026-08-02;1837;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Pix;Masculino;Mary Kuczenski
+2026-08-02;1838;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Pix;Masculino;Brenda Martin
+2026-08-02;1839;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Nancy Sosa
+2026-08-02;1840;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Cartão de Crédito;Masculino;Harvey Chynoweth
+2026-08-02;1841;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Masculino;Christopher Wilson
+2026-08-02;1842;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Masculino;Peter Curry
+2026-08-03;1843;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Masculino;Heather Farrell
+2026-08-03;1844;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Pix;Masculino;Jake Conklin
+2026-08-03;1845;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Pix;Masculino;Peter Parker
+2026-08-03;1846;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Feminino;Michael Cook
+2026-08-03;1847;MG;Belo Horizonte;Bim da Ambulância;Tênis Esportivo;149,9;Pix;Masculino;Richard Dimaggio
+2026-08-03;1848;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Masculino;Adam Vo
+2026-08-03;1849;CE;Fortaleza;José Maria;Camiseta;29,9;Cartão de Débito;Feminino;Roger Gentles
+2026-08-03;1850;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Pix;Masculino;Kathleen Maynard
+2026-08-03;1851;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;William Lewis
+2026-08-04;1852;MG;Belo Horizonte;Juliana Ferreira;Vestido;79,9;Dinheiro;Feminino;Brian Hobbs
+2026-08-04;1853;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Dinheiro;Feminino;Ronald Crayton
+2026-08-04;1854;CE;Fortaleza;José Maria;Óculos de Sol;59,9;Dinheiro;Masculino;Jack Alvarez
+2026-08-04;1855;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Pix;Feminino;Sharon Burrell
+2026-08-04;1856;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Débito;Feminino;Tashia Nowak
+2026-08-04;1857;MG;Belo Horizonte;Juliana Ferreira;Blusa de Frio;89,9;Dinheiro;Masculino;Josephine Carter
+2026-08-04;1858;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Dinheiro;Masculino;Wendy Stokes
+2026-08-04;1859;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Naoma Sermersheim
+2026-08-05;1860;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Cartão de Débito;Masculino;Afton Hicks
+2026-08-05;1861;SC;Florianópolis;Léco;Camiseta;29,9;Pix;Feminino;Megan Jones
+2026-08-05;1862;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Pix;Masculino;Loretta Setters
+2026-08-05;1863;SC;Florianópolis;Magrinho Mrl;Calça Jeans;99,9;Cartão de Débito;Masculino;Erik Doke
+2026-08-05;1864;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Pix;Masculino;John Porter
+2026-08-05;1865;SC;Florianópolis;Léco;Tênis Esportivo;149,9;Cartão de Crédito;Masculino;Lee Llewellyn
+2026-08-05;1866;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Robert Fisher
+2026-08-05;1867;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Dinheiro;Feminino;Ronald Araujo
+2026-08-05;1868;SC;Florianópolis;Léco;Vestido;79,9;Pix;Masculino;Fabian Alvarado
+2026-08-06;1869;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Dinheiro;Feminino;Loraine Landon
+2026-08-06;1870;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Masculino;Gloria Frederick
+2026-08-06;1871;CE;Fortaleza;Maria das Graças;Vestido;79,9;Pix;Masculino;John Smith
+2026-08-07;1872;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Cartão de Crédito;Feminino;Frances Anderson
+2026-08-07;1873;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Lisa Pearce
+2026-08-07;1874;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Pix;Feminino;Armand Skeels
+2026-08-07;1875;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Pix;Masculino;Ralph Shumpert
+2026-08-07;1876;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Pix;Masculino;John Freuden
+2026-08-08;1877;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Keith Reyes
+2026-08-08;1878;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Dinheiro;Masculino;Tim Henry
+2026-08-08;1879;SP;São Paulo;Fernanda Soares;Shorts;39,9;Dinheiro;Masculino;Ruth Wood
+2026-08-08;1880;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Masculino;Preston Anderson
+2026-08-09;1881;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Cartão de Débito;Feminino;Amy Boyce
+2026-08-09;1882;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Cartão de Débito;Feminino;Jason Chesnut
+2026-08-10;1883;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Feminino;Charlotte Miller
+2026-08-10;1884;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Masculino;Peter Johnson
+2026-08-10;1885;SC;Florianópolis;Magrinho Mrl;Shorts;39,9;Cartão de Débito;Masculino;Samatha Bowman
+2026-08-10;1886;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Dinheiro;Feminino;James Stevens
+2026-08-10;1887;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Débito;Masculino;Janet Fernandez
+2026-08-11;1888;SC;Florianópolis;Magrinho Mrl;Blusa de Frio;89,9;Cartão de Débito;Feminino;Sally Topolosky
+2026-08-11;1889;MG;Belo Horizonte;Bim da Ambulância;Blusa de Frio;89,9;Pix;Feminino;Barbara Comfort
+2026-08-11;1890;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Masculino;James Shae
+2026-08-11;1891;RJ;Rio de Janeiro;Jaqueline Carneiro;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Charles Gullett
+2026-08-11;1892;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;Anthony Blanks
+2026-08-11;1893;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Kenneth Copeland
+2026-08-12;1894;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Dinheiro;Masculino;Tammy Ferguson
+2026-08-12;1895;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Carolyn Mccabe
+2026-08-12;1896;MG;Belo Horizonte;Bim da Ambulância;Shorts;39,9;Pix;Feminino;Roger Warrington
+2026-08-12;1897;RJ;Rio de Janeiro;Jaqueline Carneiro;Saia;49,9;Cartão de Crédito;Masculino;Lolita Hayes
+2026-08-13;1898;CE;Fortaleza;José Maria;Shorts;39,9;Cartão de Débito;Feminino;Thomas Small
+2026-08-13;1899;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Feminino;Robert Harvey
+2026-08-13;1900;CE;Fortaleza;Maria das Graças;Shorts;39,9;Cartão de Débito;Masculino;Helen Albers
+2026-08-13;1901;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Cartão de Débito;Masculino;Ashley Love
+2026-08-14;1902;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Feminino;Troy Acres
+2026-08-14;1903;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Pix;Feminino;Bob Bray
+2026-08-14;1904;RJ;Rio de Janeiro;Gabriel Flash;Óculos de Sol;59,9;Pix;Masculino;Suzanne Fitzgerald
+2026-08-14;1905;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Dinheiro;Feminino;Stephanie Escobar
+2026-08-14;1906;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Dinheiro;Feminino;Patricia Hart
+2026-08-14;1907;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Pix;Masculino;Annie Bates
+2026-08-14;1908;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Dinheiro;Masculino;Ana Hollar
+2026-08-14;1909;RJ;Rio de Janeiro;Jaqueline Carneiro;Camiseta;29,9;Dinheiro;Masculino;William Holmes
+2026-08-15;1910;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Dinheiro;Masculino;Gracie Barrington
+2026-08-15;1911;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Dinheiro;Masculino;Willie Hodgson
+2026-08-15;1912;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Feminino;Richard Stevens
+2026-08-15;1913;SP;São Paulo;Fernanda Soares;Blusa de Frio;89,9;Pix;Masculino;Julius Cruz
+2026-08-15;1914;SC;Florianópolis;Magrinho Mrl;Camiseta;29,9;Dinheiro;Masculino;Wilma Jensen
+2026-08-15;1915;MG;Belo Horizonte;Bim da Ambulância;Calça Jeans;99,9;Pix;Masculino;Lisa Perciful
+2026-08-15;1916;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Débito;Masculino;John Huffman
+2026-08-15;1917;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Crédito;Feminino;Maxie Williams
+2026-08-15;1918;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Cartão de Crédito;Feminino;Daniel Darling
+2026-08-15;1919;RJ;Rio de Janeiro;Gabriel Flash;Tênis Esportivo;149,9;Pix;Masculino;Simone Price
+2026-08-16;1920;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Masculino;William Ramirez
+2026-08-16;1921;CE;Fortaleza;Maria das Graças;Vestido;79,9;Pix;Feminino;Dana Feinstein
+2026-08-16;1922;RJ;Rio de Janeiro;Jaqueline Carneiro;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Susan Sexton
+2026-08-16;1923;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Philip Carmichael
+2026-08-16;1924;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Débito;Feminino;Mathew Davis
+2026-08-16;1925;MG;Belo Horizonte;Juliana Ferreira;Camiseta;29,9;Cartão de Débito;Masculino;Kathryn Young
+2026-08-16;1926;MG;Belo Horizonte;Juliana Ferreira;Shorts;39,9;Pix;Feminino;Luke Holder
+2026-08-17;1927;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Masculino;Elizabeth Crooks
+2026-08-17;1928;CE;Fortaleza;Maria das Graças;Blusa de Frio;89,9;Dinheiro;Masculino;Fredrick Zebell
+2026-08-17;1929;RJ;Rio de Janeiro;Gabriel Flash;Shorts;39,9;Cartão de Débito;Masculino;Kenneth Sims
+2026-08-17;1930;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Crédito;Masculino;Joseph Anderson
+2026-08-17;1931;SC;Florianópolis;Magrinho Mrl;Jaqueta de Couro;199,9;Pix;Feminino;Raymond Engle
+2026-08-17;1932;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Cartão de Crédito;Masculino;Candace Swartz
+2026-08-18;1933;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Feminino;Angela Cota
+2026-08-18;1934;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;Sharon Mitchell
+2026-08-18;1935;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Pix;Masculino;Rickie Seiersen
+2026-08-18;1936;MG;Belo Horizonte;Juliana Ferreira;Jaqueta de Couro;199,9;Pix;Masculino;Michelle Black
+2026-08-18;1937;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Pix;Feminino;Mark Reed
+2026-08-19;1938;RJ;Rio de Janeiro;Jaqueline Carneiro;Blusa de Frio;89,9;Cartão de Débito;Masculino;Janice Julien
+2026-08-19;1939;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Feminino;Abigail Dulac
+2026-08-19;1940;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Michel Thompson
+2026-08-19;1941;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Feminino;Arlene Cohen
+2026-08-19;1942;RJ;Rio de Janeiro;Jaqueline Carneiro;Vestido;79,9;Pix;Feminino;Cleo Rojas
+2026-08-20;1943;RJ;Rio de Janeiro;Gabriel Flash;Saia;49,9;Cartão de Crédito;Feminino;Olga Bunch
+2026-08-20;1944;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Pix;Masculino;Mary Moritz
+2026-08-20;1945;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Crédito;Feminino;Jason Sanders
+2026-08-21;1946;MG;Belo Horizonte;Juliana Ferreira;Óculos de Sol;59,9;Pix;Masculino;John Holloman
+2026-08-21;1947;CE;Fortaleza;José Maria;Saia;49,9;Cartão de Débito;Feminino;Susan Berry
+2026-08-21;1948;RJ;Rio de Janeiro;Gabriel Flash;Chapéu;19,9;Cartão de Crédito;Feminino;Sheldon Miller
+2026-08-21;1949;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Débito;Masculino;Warren Skora
+2026-08-21;1950;SP;São Paulo;Fernanda Soares;Tênis Esportivo;149,9;Cartão de Crédito;Feminino;Sharon Williams
+2026-08-21;1951;MG;Belo Horizonte;Juliana Ferreira;Calça Jeans;99,9;Cartão de Crédito;Feminino;Dale Gutierrez
+2026-08-22;1952;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Crédito;Masculino;Christopher Rivera
+2026-08-22;1953;SC;Florianópolis;Léco;Shorts;39,9;Cartão de Crédito;Feminino;Paul Doyel
+2026-08-23;1954;SC;Florianópolis;Magrinho Mrl;Vestido;79,9;Dinheiro;Feminino;Susan Manuel
+2026-08-23;1955;CE;Fortaleza;Maria das Graças;Óculos de Sol;59,9;Cartão de Débito;Feminino;Max Lalk
+2026-08-23;1956;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Pix;Masculino;Edna Burt
+2026-08-23;1957;MG;Belo Horizonte;Bim da Ambulância;Vestido;79,9;Cartão de Crédito;Feminino;Anthony Flott
+2026-08-23;1958;MG;Belo Horizonte;Bim da Ambulância;Chapéu;19,9;Cartão de Débito;Masculino;Elizabeth Fan
+2026-08-23;1959;CE;Fortaleza;José Maria;Vestido;79,9;Cartão de Crédito;Masculino;Robert Broussard
+2026-08-23;1960;CE;Fortaleza;José Maria;Blusa de Frio;89,9;Dinheiro;Feminino;Earnest Singleton
+2026-08-23;1961;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Feminino;Kellie Kerr
+2026-08-23;1962;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Feminino;Philip Griggs
+2026-08-23;1963;SP;São Paulo;Fernanda Soares;Jaqueta de Couro;199,9;Pix;Feminino;Raul Fernberg
+2026-08-23;1964;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Crédito;Feminino;Richard Soto
+2026-08-23;1965;CE;Fortaleza;José Maria;Vestido;79,9;Pix;Masculino;Melaine Tregre
+2026-08-23;1966;SP;São Paulo;Germano Martins;Shorts;39,9;Cartão de Crédito;Feminino;Charles Parker
+2026-08-24;1967;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Dinheiro;Feminino;Rene Thomas
+2026-08-24;1968;SC;Florianópolis;Magrinho Mrl;Óculos de Sol;59,9;Pix;Masculino;Raul Treadway
+2026-08-24;1969;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Dinheiro;Masculino;Elena Scroggs
+2026-08-24;1970;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Crédito;Masculino;Gina Ketter
+2026-08-25;1971;RJ;Rio de Janeiro;Gabriel Flash;Jaqueta de Couro;199,9;Cartão de Crédito;Masculino;Eugene Gadwah
+2026-08-25;1972;CE;Fortaleza;Maria das Graças;Tênis Esportivo;149,9;Cartão de Débito;Feminino;Naomi Estes
+2026-08-25;1973;MG;Belo Horizonte;Juliana Ferreira;Chapéu;19,9;Dinheiro;Masculino;Brenda Clevenger
+2026-08-25;1974;CE;Fortaleza;Maria das Graças;Camiseta;29,9;Cartão de Débito;Masculino;Bobby Drew
+2026-08-25;1975;CE;Fortaleza;Maria das Graças;Calça Jeans;99,9;Cartão de Crédito;Masculino;Joshua Garza
+2026-08-26;1976;CE;Fortaleza;José Maria;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Kristine Barlow
+2026-08-26;1977;MG;Belo Horizonte;Juliana Ferreira;Saia;49,9;Cartão de Débito;Masculino;Virginia Brown
+2026-08-26;1978;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Pix;Feminino;Shelley Finzel
+2026-08-26;1979;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Débito;Feminino;Shanon Torres
+2026-08-26;1980;SP;São Paulo;Germano Martins;Saia;49,9;Cartão de Crédito;Feminino;Samuel Johnston
+2026-08-26;1981;SP;São Paulo;Germano Martins;Jaqueta de Couro;199,9;Pix;Feminino;Gerald White
+2026-08-27;1982;SP;São Paulo;Germano Martins;Vestido;79,9;Dinheiro;Feminino;Stephanie Castaneda
+2026-08-27;1983;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Pix;Feminino;Sara Paul
+2026-08-27;1984;SC;Florianópolis;Léco;Jaqueta de Couro;199,9;Dinheiro;Feminino;John Smith
+2026-08-28;1985;SP;São Paulo;Germano Martins;Blusa de Frio;89,9;Cartão de Crédito;Feminino;Cory Mayo
+2026-08-28;1986;SP;São Paulo;Fernanda Soares;Vestido;79,9;Cartão de Débito;Masculino;Guadalupe Aldridge
+2026-08-29;1987;CE;Fortaleza;José Maria;Tênis Esportivo;149,9;Cartão de Débito;Masculino;Carmen Mckee
+2026-08-29;1988;SP;São Paulo;Fernanda Soares;Camiseta;29,9;Dinheiro;Feminino;Theresa Brown
+2026-08-29;1989;CE;Fortaleza;José Maria;Calça Jeans;99,9;Cartão de Débito;Feminino;Jacqueline Bishop
+2026-08-29;1990;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Pix;Feminino;Charles Moore
+2026-08-30;1991;SC;Florianópolis;Léco;Calça Jeans;99,9;Cartão de Débito;Masculino;William Scott
+2026-08-30;1992;SP;São Paulo;Germano Martins;Óculos de Sol;59,9;Pix;Feminino;Nathan Conley
+2026-08-30;1993;SC;Florianópolis;Léco;Camiseta;29,9;Dinheiro;Feminino;Carol Murphy
+2026-08-30;1994;RJ;Rio de Janeiro;Gabriel Flash;Vestido;79,9;Cartão de Débito;Masculino;Zaida Andrews
+2026-08-31;1995;SP;São Paulo;Germano Martins;Camiseta;29,9;Dinheiro;Feminino;Howard Geary
+2026-08-31;1996;CE;Fortaleza;Maria das Graças;Vestido;79,9;Cartão de Débito;Feminino;Mary Pippen
+2026-08-31;1997;MG;Belo Horizonte;Bim da Ambulância;Jaqueta de Couro;199,9;Cartão de Débito;Feminino;Willie Russell
+2026-08-31;1998;RJ;Rio de Janeiro;Jaqueline Carneiro;Óculos de Sol;59,9;Dinheiro;Masculino;Stanley Washington
+2026-08-31;1999;SP;São Paulo;Fernanda Soares;Óculos de Sol;59,9;Pix;Masculino;Diane Rios
