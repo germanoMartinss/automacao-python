@@ -68,7 +68,7 @@ for _ in range(2000):
         "cidade": loja["cidade"],
         "vendedor": vendedor,
         "produto": produto["nome"],
-        "preco": produto["preco"],
+        "preço": produto["preço"],
         "forma_pagto": forma_pagto,
         "genero_cliente": genero_cliente,
         "nome_cliente": nome_cliente
