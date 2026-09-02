@@ -17,5 +17,5 @@ app = gr.Interface(
     inputs=gr.components.Image(type="pil"),
     outputs=gr.components.Image(type="pil", format="png"),
 )
-
+# if __name__ == "__main__":
 app.launch(share=True)
