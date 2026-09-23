@@ -7,7 +7,7 @@ print(list(files_paths))
 for file in files_paths:
     # print(file.stem)
     # print(file.suffix)
-    new_filename = f"new-{file.stem}{file.suffix}"
+    new_filename = f"{file.stem}{file.suffix}"
     print(new_filename)
     new_filepath = file.with_name(new_filename)
     file.rename(new_filepath)
