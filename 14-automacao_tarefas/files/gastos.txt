@@ -1,0 +1,9 @@
+Tipo,Valor,Forma_pagto
+Energia,235,Dinheiro
+IFood,340,Cartão
+Uber,120,Pix
+Remédio,150,Dinheiro
+Petshop,80,Cartão
+Roupas,600,Cartão
+Entreterimento,450,Dinheiro
+Livros,150,Pix
