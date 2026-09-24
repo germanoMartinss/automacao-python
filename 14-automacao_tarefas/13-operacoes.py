@@ -22,7 +22,9 @@ planilha.merge_cells('A11:B11')
 # 3 - Inserir Imagem
 img = Image('files/bb_preco.png')
 planilha.add_image(img, 'A13')
-wb.save(filename='files/gastos.xlsx')
+# wb.save(filename='files/gastos.xlsx')
 
-
+# 4 - Remover Células
+planilha.delete_cols(1, 1)
+# wb.save(filename='files/gastos.xlsx')
 
