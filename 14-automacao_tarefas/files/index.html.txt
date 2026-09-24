@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Teste</title>
+</head>
+<body>
+    <h1>Página Teste</h1>
+    <div>
+        <h4 style="font-family: Arial, Helvetica, sans-serif; color: #000000">
+            Olá, boa noite.
+        </h4>
+        <p> Somos da empresa XYZ Automações estamos expandindo a nossa empresa </p>
+        <p> e gostaria de saber se vocé tem interesse em participar de uma conversa com a gente.</p>
+        <p> Fico no aguardo do seu retorno. </p>
+        <p> Att, </p>
+        <h5> Germano Martins </h5>
+        <h5> Fone (xx) xxxxx-xxxx </h5>
+        <h5> email: germanoicloud1991@gmail.com </h5>
+    </div>
+    <div style="padding: 40px 0px">
+        <div style="height: 500px; width: 400px;">
+            <img src="files/germano.png" alt="germano">
+        </div>
+    </div>
+</body>
+</html>
