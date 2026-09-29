@@ -19,5 +19,5 @@ for nome in lista_arquivos:
         for j in range(1, max_coluna + 1):
             data = sheet.cell(row=i, column=j)
             ws.cell(row=i, column=j).value = data.value
-
+wb.remove(wb['Sheet'])
 wb.save(filename=nome_arquivo)
